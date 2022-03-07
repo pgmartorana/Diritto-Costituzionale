@@ -68,9 +68,9 @@ La Repubblica **riconosce** e **garantisce** i diritti inviolabili dell'uomo, si
 
 Tutti i cittadini hanno pari dignitá sociale [XIV] e sono uguali davanti alla legge, senza distinzione di sesso [29,37,48,51,117], di razza, di lingua [6] [cost6], di religione [8,19], di opinioni politiche [22], di condizioni personali e sociali.
 
-### Art.
+### Art.6
 
 La Repubblica tutela con apposite norme le minoranze linguistiche [X]
 
 [cost6]: https://github.com/pgmartorana/Diritto-Costituzionale/blob/main/costituzione_italiana.md#art-6
-[6]: #art
+[6]: #art6
