@@ -73,4 +73,4 @@ Tutti i cittadini hanno pari dignitá sociale [XIV] e sono uguali davanti alla l
 La Repubblica tutela con apposite norme le minoranze linguistiche [X]
 
 [cost6]: https://github.com/pgmartorana/Diritto-Costituzionale/blob/main/costituzione_italiana.md#art-6
-[6]: #-titolo
+[6]: #titolo
