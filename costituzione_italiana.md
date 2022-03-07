@@ -6,7 +6,7 @@ testo aggiornato alla legge costituzionale 18 Ottobre 2021, n.1
 
 ### Principi Fondamentali
 
-* art. 1-12
+* art. 1-12 [6] []
 
 ### Parte I - Diritti e doveri dei cittadini - artt. 13-54 
 
@@ -73,3 +73,4 @@ Tutti i cittadini hanno pari dignitá sociale [XIV] e sono uguali davanti alla l
 La Repubblica tutela con apposite norme le minoranze linguistiche [X]
 
 [cost6]: https://github.com/pgmartorana/Diritto-Costituzionale/blob/main/costituzione_italiana.md#art-6
+[6]: #-art-6
