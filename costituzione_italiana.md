@@ -328,7 +328,7 @@ Finché non siano riunite le nuove Camere sono prorogati i poteri delle preceden
 
 Le Camere si riuniscono di diritto il primo giorno non festivo di febbraio e di ottobre.
 
-Ciascuna Camera può essere convocata in via straordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti [cfr. art. [77] c. 2].
+<a name="62c2">(2) </a>Ciascuna Camera può essere convocata in via straordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti [cfr. art. [77] c. 2].
 
 Quando si riunisce in via straordinaria una Camera, è convocata di diritto anche l'altra.
 
@@ -430,7 +430,7 @@ L'esercizio della funzione legislativa non può essere delegato [cfr. art. [72] 
 
 Il Governo non può, senza delegazione delle Camere [cfr. art. [76]], emanare decreti che abbiano valore di legge ordinaria.
 
-Quando, in casi straordinari di necessità e di urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti provvisori con forza di legge, deve il giorno stesso presentarli per la conversione alle Camere che, anche se sciolte, sono appositamente convocate e si riuniscono entro cinque giorni [cfr. artt. [61] c. 2, [62] c. 2].
+Quando, in casi straordinari di necessità e di urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti provvisori con forza di legge, deve il giorno stesso presentarli per la conversione alle Camere che, anche se sciolte, sono appositamente convocate e si riuniscono entro cinque giorni [cfr. artt. [61] c. 2, [62 c.2](#62c2)]. 
 
 I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge entro sessanta giorni dalla loro pubblicazione. Le Camere possono tuttavia regolare con legge i rapporti giuridici sorti sulla base dei decreti non convertiti.
 
