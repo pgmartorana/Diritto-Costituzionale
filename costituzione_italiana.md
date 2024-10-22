@@ -136,11 +136,43 @@ Tutti hanno diritto di professare liberamente la propria fede religiosa in quals
 
 #### Art. 20
 
-Il carattere ecclesiastico e il fine di religione o di culto d'una associazione od istituzione non possono essere causa di speciali limitazioni legislative, né di speciali gravami fiscali per la sua costituzione, capacità giuridica e ogni forma di attività [cfr. artt. 8, 19].
+Il carattere ecclesiastico e il fine di religione o di culto d'una associazione od istituzione non possono essere causa di speciali limitazioni legislative, né di speciali gravami fiscali per la sua costituzione, capacità giuridica e ogni forma di attività [cfr. artt. [8], [19].
+
+#### Art. 21
+
+Tutti hanno diritto di manifestare liberamente il proprio pensiero con la parola, lo scritto e ogni altro mezzo di diffusione.
+
+La stampa non può essere soggetta ad autorizzazioni o censure.
+
+Si può procedere a sequestro soltanto per atto motivato dell'autorità giudiziaria [cfr. art. [111] c.1] nel caso di delitti, per i quali la legge sulla stampa espressamente lo autorizzi, o nel caso di violazione delle norme che la legge stessa prescriva per l'indicazione dei responsabili.
+
+In tali casi, quando vi sia assoluta urgenza e non sia possibile il tempestivo intervento dell'autorità giudiziaria, il sequestro della stampa periodica può essere eseguito da ufficiali di polizia giudiziaria, che devono immediatamente, e non mai oltre ventiquattro ore, fare denunzia all'autorità giudiziaria. Se questa non lo convalida nelle ventiquattro ore successive, il sequestro s'intende revocato e privo d'ogni effetto.
+
+La legge può stabilire, con norme di carattere generale, che siano resi noti i mezzi di finanziamento della stampa periodica.
+
+Sono vietate le pubblicazioni a stampa, gli spettacoli e tutte le altre manifestazioni contrarie al buon costume. La legge stabilisce provvedimenti adeguati a prevenire e a reprimere le violazioni.
+
+#### Art. 22
+
+Nessuno può essere privato, per motivi politici, della capacità giuridica, della cittadinanza, del nome.
+
+#### Art. 23
+
+Nessuna prestazione personale o patrimoniale può essere imposta se non in base alla legge.
+
+#### Art. 24
+
+Nessuno può essere distolto dal giudice naturale precostituito per legge [cfr. art. [102]].
+
+Nessuno può essere punito se non in forza di una legge che sia entrata in vigore prima del fatto commesso.
+
+Nessuno può essere sottoposto a misure di sicurezza se non nei casi previsti dalla legge [cfr. art. [13] c.2].
 
 
 
 ### Titolo Secondo - Rapporti Etico-Sociali
+
+
 
 ### Titolo Terzo - Rapporti Economici
 
