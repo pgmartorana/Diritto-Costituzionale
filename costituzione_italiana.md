@@ -326,10 +326,13 @@ Finché non siano riunite le nuove Camere sono prorogati i poteri delle preceden
 
 ##### Art. 62
 
+<a name="62c1"></a>
 Le Camere si riuniscono di diritto il primo giorno non festivo di febbraio e di ottobre.
 
-<a name="62c2"></a>Ciascuna Camera può essere convocata in via straordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti [cfr. art. [77] c. 2].
+<a name="62c2"></a>
+Ciascuna Camera può essere convocata in via straordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti [cfr. art. [77] c. 2].
 
+<a name="62c3"></a>
 Quando si riunisce in via straordinaria una Camera, è convocata di diritto anche l'altra.
 
 ##### Art. 63
