@@ -1,6 +1,6 @@
 # Costituzione Della Repubblica
 
-testo aggiornato alla legge costituzionale 18 Ottobre 2021, n.1
+Testo aggiornato alla legge costituzionale 18 Ottobre 2021, n.1
 
 ## Indice
 
