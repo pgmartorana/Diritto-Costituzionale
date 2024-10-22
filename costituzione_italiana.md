@@ -162,13 +162,43 @@ Nessuna prestazione personale o patrimoniale può essere imposta se non in base 
 
 #### Art. 24
 
+Tutti possono agire in giudizio per la tutela dei propri diritti e interessi legittimi [cfr. art. [113]].
+
+La difesa è diritto inviolabile in ogni stato e grado del procedimento.
+
+Sono assicurati ai non abbienti, con appositi istituti, i mezzi per agire e difendersi davanti ad ogni giurisdizione.
+
+La legge determina le condizioni e i modi per la riparazione degli errori giudiziari.
+
+#### Art. 25
+
 Nessuno può essere distolto dal giudice naturale precostituito per legge [cfr. art. [102]].
 
 Nessuno può essere punito se non in forza di una legge che sia entrata in vigore prima del fatto commesso.
 
 Nessuno può essere sottoposto a misure di sicurezza se non nei casi previsti dalla legge [cfr. art. [13] c.2].
 
+#### Art. 26
 
+L'estradizione del cittadino può essere consentita soltanto ove sia espressamente prevista dalle convenzioni internazionali.
+
+Non può in alcun caso essere ammessa per reati politici [cfr. art. [10] c.4]
+
+#### Art. 27
+
+La responsabilità penale è personale.
+
+L'imputato non è considerato colpevole sino alla condanna definitiva.
+
+Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato [cfr. art. 13 c. 4].
+
+Non è ammessa la pena di morte.
+
+#### Art. 28
+
+I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti.
+
+In tali casi la responsabilità civile si estende allo Stato e agli enti pubblici [cfr. art. [97] c. 2].
 
 ### Titolo Secondo - Rapporti Etico-Sociali
 
