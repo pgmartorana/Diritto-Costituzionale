@@ -202,7 +202,65 @@ In tali casi la responsabilità civile si estende allo Stato e agli enti pubblic
 
 ### Titolo Secondo - Rapporti Etico-Sociali
 
+#### Art. 29
 
+La Repubblica riconosce i diritti della famiglia come società naturale fondata sul matrimonio.
+
+Il matrimonio è ordinato sull'uguaglianza morale e giuridica dei coniugi, con i limiti stabiliti dalla legge a garanzia dell'unità familiare.
+
+#### Art. 30
+
+E` dovere e diritto dei genitori mantenere, istruire ed educare i figli, anche se nati fuori del matrimonio.
+
+Nei casi di incapacità dei genitori, la legge provvede a che siano assolti i loro compiti.
+
+La legge assicura ai figli nati fuori del matrimonio ogni tutela giuridica e sociale, compatibile con i diritti dei membri della famiglia legittima.
+
+La legge detta le norme e i limiti per la ricerca della paternità.E` dovere e diritto dei genitori mantenere, istruire ed educare i figli, anche se nati fuori del matrimonio.
+
+Nei casi di incapacità dei genitori, la legge provvede a che siano assolti i loro compiti.
+
+La legge assicura ai figli nati fuori del matrimonio ogni tutela giuridica e sociale, compatibile con i diritti dei membri della famiglia legittima.
+
+La legge detta le norme e i limiti per la ricerca della paternità.
+
+#### Art. 31
+
+La Repubblica agevola con misure economiche e altre provvidenze la formazione della famiglia e l'adempimento dei compiti relativi, con particolare riguardo alle famiglie numerose.
+
+Protegge la maternità, l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo [cfr. art. [37]].
+
+#### Art. 32
+
+La Repubblica tutela la salute come fondamentale diritto dell'individuo e interesse della collettività, e garantisce cure gratuite agli indigenti.
+
+Nessuno può essere obbligato a un determinato trattamento sanitario se non per disposizione di legge. La legge non può in nessun caso violare i limiti imposti dal rispetto della persona umana.
+
+#### Art. 33
+
+L'arte e la scienza sono libere e libero ne è l'insegnamento.
+
+La Repubblica detta le norme generali sull'istruzione ed istituisce scuole statali per tutti gli ordini e gradi.
+
+Enti e privati hanno il diritto di istituire scuole ed istituti di educazione, senza oneri per lo Stato.
+
+La legge, nel fissare i diritti e gli obblighi delle scuole non statali che chiedono la parità, deve assicurare ad esse piena libertà e ai loro alunni un trattamento scolastico equipollente a quello degli alunni di scuole statali.
+
+E` prescritto un esame di Stato per l'ammissione ai vari ordini e gradi di scuole o per la conclusione di essi e per l'abilitazione all'esercizio professionale.
+
+Le istituzioni di alta cultura, università ed accademie, hanno il diritto di darsi ordinamenti autonomi nei limiti stabiliti dalle leggi dello Stato.
+
+La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell’attività sportiva in tutte le sue forme.
+
+#### Art. 34
+
+La scuola è aperta a tutti.
+
+L'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita.
+
+I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi.
+
+La Repubblica rende effettivo questo diritto con borse di studio, assegni alle famiglie ed altre provvidenze, che devono essere attribuite per concorso.
 
 ### Titolo Terzo - Rapporti Economici
 
