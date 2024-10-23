@@ -62,7 +62,7 @@ La sovranitá appartiene al popolo, che la esercita nelle forme e nei limiti del
 
 ### Art. 2
 
-La Repubblica **riconosce** e **garantisce** i diritti inviolabili dell'uomo, sia come singolo, sia nelle formazioni sociali ove si svolge la sua personalitá, e **richiede** l'adempimento dei doveri inderogabili di solidarietá politica, economica e sociale.
+La Repubblica riconosce e **garantisce** i diritti inviolabili dell'uomo, sia come singolo, sia nelle formazioni sociali ove si svolge la sua personalitá, e **richiede** l'adempimento dei doveri inderogabili di solidarietá politica, economica e sociale.
 
 ### Art. 3
 
