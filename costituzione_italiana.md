@@ -808,17 +808,110 @@ La legge assicura l'indipendenza dei due Istituti e dei loro componenti di front
 #### Sezione I - Ordinamento Giurisdizionale
 
 ##### Art. 101
+
+La giustizia è amministrata in nome del popolo.
+
+I giudici sono soggetti soltanto alla legge.
+
 ##### Art. 102
+
+La funzione giurisdizionale è esercitata da magistrati ordinari istituiti e regolati dalle norme sull'ordinamento giudiziario [cfr. art. 108].
+
+Non possono essere istituiti giudici straordinari o giudici speciali [cfr. art. 25 c.1]. Possono soltanto istituirsi presso gli organi giudiziari ordinari sezioni specializzate per determinate materie, anche con la partecipazione di cittadini idonei estranei alla magistratura [cfr. VI].
+
+La legge regola i casi e le forme della partecipazione diretta del popolo all'amministrazione della giustizia.
+
 ##### Art. 103
+
+Il Consiglio di Stato [cfr. art. 100 c.1] e gli altri organi di giustizia amministrativa hanno giurisdizione per la tutela nei confronti della pubblica amministrazione degli interessi legittimi e, in particolari materie indicate dalla legge, anche dei diritti soggettivi [cfr. artt. 24 c.1, 111 c.3, 113, 125 c.2 ].
+
+La Corte dei conti [cfr. art. 100 c.2] ha giurisdizione nelle materie di contabilità pubblica e nelle altre specificate dalla legge [cfr. art. 113 c.3].
+
+I tribunali militari in tempo di guerra hanno la giurisdizione stabilita dalla legge. In tempo di pace hanno giurisdizione soltanto per i reati militari commessi da appartenenti alle Forze armate [cfr. art. 111 c.2, VI c.2].
+
 ##### Art. 104
+
+La magistratura costituisce un ordine autonomo e indipendente da ogni altro potere.
+
+Il Consiglio superiore della magistratura [cfr. artt. 105, 106 c.3, 107 c.1 ] è presieduto dal Presidente della Repubblica [cfr. art. ].
+
+Ne fanno parte di diritto il primo presidente e il procuratore generale della Corte di cassazione.
+
+Gli altri componenti sono eletti per due terzi da tutti i magistrati ordinari tra gli appartenenti alle varie categorie, e per un terzo dal Parlamento in seduta comune [cfr. art. 55 c.2] tra professori ordinari di università in materie giuridiche ed avvocati dopo quindici anni di esercizio.
+
+Il Consiglio elegge un vicepresidente fra i componenti designati dal Parlamento.
+
+I membri elettivi del Consiglio durano in carica quattro anni e non sono immediatamente rieleggibili.
+
+Non possono, finché sono in carica, essere iscritti negli albi professionali, né far parte del Parlamento o di un Consiglio regionale.
+
 ##### Art. 105
+
+Spettano al Consiglio superiore della magistratura, secondo le norme dell'ordinamento giudiziario, le assunzioni, le assegnazioni ed i trasferimenti, le promozioni e i provvedimenti disciplinari nei riguardi dei magistrati [cfr. artt. 106, 107].
+
 ##### Art. 106
+
+Le nomine dei magistrati hanno luogo per concorso.
+
+La legge sull'ordinamento giudiziario [cfr. art. 108] può ammettere la nomina, anche elettiva, di magistrati onorari per tutte le funzioni attribuite a giudici singoli.
+
+Su designazione del Consiglio superiore della magistratura possono essere chiamati all'ufficio di consiglieri di cassazione, per meriti insigni, professori ordinari di università in materie giuridiche e avvocati che abbiano quindici anni d'esercizio e siano iscritti negli albi speciali per le giurisdizioni superiori.
+
 ##### Art. 107
+
+I magistrati sono inamovibili. Non possono essere dispensati o sospesi dal servizio né destinati ad altre sedi o funzioni se non in seguito a decisione del Consiglio superiore della magistratura, adottata o per i motivi e con le garanzie di difesa stabilite dall'ordinamento giudiziario o con il loro consenso.
+
+Il Ministro della giustizia ha facoltà di promuovere l'azione disciplinare.
+
+I magistrati si distinguono fra loro soltanto per diversità di funzioni.
+
+Il pubblico ministero gode delle garanzie stabilite nei suoi riguardi dalle norme sull'ordinamento giudiziario.
+
+##### Art. 108
+
+Le norme sull'ordinamento giudiziario e su ogni magistratura sono stabilite con legge [cfr. VII c.1].
+
+La legge assicura l'indipendenza dei giudici delle giurisdizioni speciali [cfr. art. 100 c.3], del pubblico ministero presso di esse, e degli estranei che partecipano all'amministrazione della giustizia [cfr. art. 102 c.2,3]
+
 ##### Art. 109
-##### Art. 109
+
+L'autorità giudiziaria dispone direttamente della polizia giudiziaria.
+
 ##### Art. 110
 
+Ferme le competenze del Consiglio superiore della magistratura, spettano al Ministro della giustizia [cfr. art. 107 c.2] l'organizzazione e il funzionamento dei servizi relativi alla giustizia.
+
 #### Sezione II - Norme sulla giurisdizione
+
+##### Art. 111
+
+La giurisdizione si attua mediante il giusto processo regolato dalla legge.
+
+Ogni processo si svolge nel contraddittorio tra le parti, in condizioni di parità, davanti a giudice terzo e imparziale. La legge ne assicura la ragionevole durata.
+
+Nel processo penale, la legge assicura che la persona accusata di un reato sia, nel più breve tempo possibile, informata riservatamente della natura e dei motivi dell'accusa elevata a suo carico; disponga del tempo e delle condizioni necessari per preparare la sua difesa; abbia la facoltà, davanti al giudice, di interrogare o di far interrogare le persone che rendono dichiarazioni a suo carico, di ottenere la convocazione e l'interrogatorio di persone a sua difesa nelle stesse condizioni dell'accusa e l'acquisizione di ogni altro mezzo di prova a suo favore; sia assistita da un interprete se non comprende o non parla la lingua impiegata nel processo.
+
+Il processo penale è regolato dal principio del contraddittorio nella formazione della prova. La colpevolezza dell'imputato non può essere provata sulla base di dichiarazioni rese da chi, per libera scelta, si è sempre volontariamente sottratto all'interrogatorio da parte dell'imputato o del suo difensore.
+
+La legge regola i casi in cui la formazione della prova non ha luogo in contraddittorio per consenso dell'imputato o per accertata impossibilità di natura oggettiva o per effetto di provata condotta illecita.
+
+Tutti i provvedimenti giurisdizionali devono essere motivati [cfr. artt. 13 c.2 , 14 c.2 , 15 c.2 , 21 c.3].
+
+Contro le sentenze e contro i provvedimenti sulla libertà personale [cfr. art. 13], pronunciati dagli organi giurisdizionali ordinari o speciali, è sempre ammesso ricorso in Cassazione per violazione di legge [cfr. art. 137 c.3]. Si può derogare a tale norma soltanto per le sentenze dei tribunali militari in tempo di guerra [cfr. art. 103 c.3 , VI c.2].
+
+Contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione è ammesso per i soli motivi inerenti alla giurisdizione [cfr. art. 103 c.1,2].
+
+##### Art. 112
+
+Il pubblico ministero ha l'obbligo di esercitare l'azione penale.
+
+##### Art. 113
+
+Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria o amministrativa [cfr. artt. 24 c.1, 103 c.1,2, 125 c.2 ].
+
+Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mezzi di impugnazione o per determinate categorie di atti.
+
+La legge determina quali organi di giurisdizione possono annullare gli atti della pubblica amministrazione nei casi e con gli effetti previsti dalla legge stessa.
 
 ### Titolo V - Le Regioni, le Province, i Comuni
 
