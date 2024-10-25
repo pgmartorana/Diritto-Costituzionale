@@ -4,8 +4,6 @@ testo aggiornato alla legge costituzionale 18 Ottobre 2021, n.1
 
 ## Indice
 
-### Principi Fondamentali
-
 * artt. [1],[2],[3],[4],[5],[6],[7],[8],[9],[10],[11],[12]
 
 ### Parte I - Diritti e doveri dei cittadini - artt. 13-54
