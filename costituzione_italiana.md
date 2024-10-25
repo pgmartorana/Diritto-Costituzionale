@@ -738,18 +738,85 @@ Il Governo della Repubblica è composto del Presidente del Consiglio e dei Minis
 Il Presidente della Repubblica nomina il Presidente del Consiglio dei Ministri e, su proposta di questo, i Ministri.
 
 ##### Art. 93
+
+Il Presidente del Consiglio dei Ministri e i Ministri, prima di assumere le funzioni, prestano giuramento nelle mani del Presidente della Repubblica.
+
 ##### Art. 94
+
+Il Governo deve avere la fiducia delle due Camere.
+
+Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata per appello nominale.
+
+Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la fiducia.
+
+Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non importa obbligo di dimissioni.
+
+La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera e non può essere messa in discussione prima di tre giorni dalla sua presentazione.
+
 ##### Art. 95
+
+Il Presidente del Consiglio dei Ministri dirige la politica generale del Governo e ne è responsabile. Mantiene l'unità di indirizzo politico ed amministrativo, promuovendo e coordinando l'attività dei Ministri.
+
+I Ministri sono responsabili collegialmente degli atti del Consiglio dei Ministri, e individualmente degli atti dei loro dicasteri [cfr. art. 89].
+
+La legge provvede all'ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l'organizzazione dei Ministeri [cfr. art. 97 c.1].
+
 ##### Art. 96
-##### Art. 97
+
+Il Presidente del Consiglio dei Ministri ed i Ministri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell'esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione del Senato della Repubblica o della Camera dei deputati, secondo le norme stabilite con legge costituzionale.
 
 #### Sezione II - La Pubblica Amministrazione
 
+##### Art. 97
+
+Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilità del debito pubblico.
+
+I pubblici uffici sono organizzati secondo disposizioni di legge [95 c.3], in modo che siano assicurati il buon andamento e l'imparzialità dell'amministrazione.
+
+Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari [28].
+
+Agli impieghi nelle pubbliche amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge [51 c.1].
+
+##### Art. 98
+
+I pubblici impiegati sono al servizio esclusivo della Nazione.
+
+Se sono membri del Parlamento, non possono conseguire promozioni se non per anzianità.
+
+Si possono con legge stabilire limitazioni al diritto d'iscriversi ai partiti politici per i magistrati, i militari di carriera in servizio attivo, i funzionari ed agenti di polizia, i rappresentanti diplomatici e consolari all'estero[cfr. art. [49]].
+
 #### Sezione III - Gli Organi Ausiliari
+
+##### Art. 99
+
+Il Consiglio nazionale dell'economia e del lavoro è composto, nei modi stabiliti dalla legge, di esperti e di rappresentanti delle categorie produttive, in misura che tenga conto della loro importanza numerica e qualitativa.
+
+E` organo di consulenza delle Camere e del Governo per le materie e secondo le funzioni che gli sono attribuite dalla legge.
+
+Ha l'iniziativa legislativa [cfr. art. 71 c.1] e può contribuire alla elaborazione della legislazione economica e sociale secondo i principi ed entro i limiti stabiliti dalla legge.
+
+##### Art. 100
+
+Il Consiglio di Stato [cfr. art. [103] c.1] è organo di consulenza giuridico-amministrativa e di tutela della giustizia nell'amministrazione.
+
+La Corte dei conti [cfr. art. [103] c.2] esercita il controllo preventivo di legittimità sugli atti del Governo, e anche quello successivo sulla gestione del bilancio dello Stato. Partecipa, nei casi e nelle forme stabilite dalla legge, al controllo sulla gestione finanziaria degli enti a cui lo Stato contribuisce in via ordinaria. Riferisce direttamente alle Camere sul risultato del riscontro eseguito [cfr. art. 81 c.1].
+
+La legge assicura l'indipendenza dei due Istituti e dei loro componenti di fronte al Governo [cfr. art. [108] c.2].
 
 ### Titolo IV - La Magistratura
 
 #### Sezione I - Ordinamento Giurisdizionale
+
+##### Art. 101
+##### Art. 102
+##### Art. 103
+##### Art. 104
+##### Art. 105
+##### Art. 106
+##### Art. 107
+##### Art. 109
+##### Art. 109
+##### Art. 110
 
 #### Sezione II - Norme sulla giurisdizione
 
