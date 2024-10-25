@@ -70,6 +70,14 @@ Tutti i cittadini hanno pari dignitá sociale [[XIV]] e sono uguali davanti alla
 
 La Repubblica tutela con apposite norme le minoranze linguistiche [[X]]
 
+### Art. 7
+
+Lo Stato e la Chiesa cattolica sono, ciascuno nel proprio ordine, indipendenti e sovrani.
+
+I loro rapporti sono regolati dai Patti Lateranensi.
+
+Le modificazioni dei Patti, accettate dalle due parti, non richiedono procedimento di revisione costituzionale [cfr. art. [138]].
+
 ### Art. 8
 
 Tutte le confessioni religiose sono egualmente libere davanti alla legge [cfr. artt. [19], [20]].
@@ -77,6 +85,32 @@ Tutte le confessioni religiose sono egualmente libere davanti alla legge [cfr. a
 Le confessioni religiose diverse dalla cattolica hanno diritto di organizzarsi secondo i propri statuti, in quanto non contrastino con l'ordinamento giuridico italiano.
 
 I loro rapporti con lo Stato sono regolati per legge sulla base di intese con le relative rappresentanze.
+
+### Art. 9
+
+La Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica [cfr. artt. [33], [34]].
+
+Tutela il paesaggio e il patrimonio storico e artistico della Nazione.
+
+Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali.
+
+### Art. 10
+
+L'ordinamento giuridico italiano si conforma alle norme del diritto internazionale generalmente riconosciute.
+
+La condizione giuridica dello straniero è regolata dalla legge in conformità delle norme e dei trattati internazionali.
+
+Lo straniero, al quale sia impedito nel suo paese l'effettivo esercizio delle libertà democratiche garantite dalla Costituzione italiana, ha diritto d'asilo nel territorio della Repubblica, secondo le condizioni stabilite dalla legge.
+
+Non è ammessa l'estradizione dello straniero per reati politici [cfr. art. 26].
+
+### Art. 11
+
+L'Italia ripudia la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali; consente, in condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni; promuove e favorisce le organizzazioni internazionali rivolte a tale scopo.
+
+### Art. 12
+
+La bandiera della Repubblica è il tricolore italiano: verde, bianco e rosso, a tre bande verticali di eguali dimensioni.
 
 ## Parte Prima - Diritti e doveri
 
@@ -134,7 +168,7 @@ Tutti hanno diritto di professare liberamente la propria fede religiosa in quals
 
 #### Art. 20
 
-Il carattere ecclesiastico e il fine di religione o di culto d'una associazione od istituzione non possono essere causa di speciali limitazioni legislative, né di speciali gravami fiscali per la sua costituzione, capacità giuridica e ogni forma di attività [cfr. artt. [8], [19].
+Il carattere ecclesiastico e il fine di religione o di culto d'una associazione od istituzione non possono essere causa di speciali limitazioni legislative, né di speciali gravami fiscali per la sua costituzione, capacità giuridica e ogni forma di attività [cfr. artt. [8], [19]].
 
 #### Art. 21
 
@@ -262,7 +296,149 @@ La Repubblica rende effettivo questo diritto con borse di studio, assegni alle f
 
 ### Titolo Terzo - Rapporti Economici
 
+#### Art. 35
+
+La Repubblica tutela il lavoro in tutte le sue forme ed applicazioni.
+
+Cura la formazione e l'elevazione professionale dei lavoratori.
+
+Promuove e favorisce gli accordi e le organizzazioni internazionali intesi ad affermare e regolare i diritti del lavoro.
+
+Riconosce la libertà di emigrazione, salvo gli obblighi stabiliti dalla legge nell'interesse generale, e tutela il lavoro italiano all'estero.
+
+#### Art. 36
+
+Il lavoratore ha diritto ad una retribuzione proporzionata alla quantità e qualità del suo lavoro e in ogni caso sufficiente ad assicurare a sé e alla famiglia un'esistenza libera e dignitosa.
+
+La durata massima della giornata lavorativa è stabilita dalla legge.
+
+Il lavoratore ha diritto al riposo settimanale e a ferie annuali retribuite, e non può rinunziarvi.
+
+#### Art. 37
+
+La donna lavoratrice ha gli stessi diritti e, a parità di lavoro, le stesse retribuzioni che spettano al lavoratore. Le condizioni di lavoro devono consentire l'adempimento della sua essenziale funzione familiare e assicurare alla madre e al bambino una speciale adeguata protezione.
+
+La legge stabilisce il limite minimo di età per il lavoro salariato.
+
+La Repubblica tutela il lavoro dei minori con speciali norme e garantisce ad essi, a parità di lavoro, il diritto alla parità di retribuzione.
+
+#### Art. 38
+
+Ogni cittadino inabile al lavoro e sprovvisto dei mezzi necessari per vivere ha diritto al mantenimento e all'assistenza sociale.
+
+I lavoratori hanno diritto che siano preveduti ed assicurati mezzi adeguati alle loro esigenze di vita in caso di infortunio, malattia, invalidità e vecchiaia, disoccupazione involontaria.
+
+Gli inabili ed i minorati hanno diritto all'educazione e all'avviamento professionale.
+
+Ai compiti previsti in questo articolo provvedono organi ed istituti predisposti o integrati dallo Stato.
+
+L'assistenza privata è libera.
+
+#### Art. 39
+
+L'organizzazione sindacale è libera [cfr. art. [18]].
+
+Ai sindacati non può essere imposto altro obbligo se non la loro registrazione presso uffici locali o centrali, secondo le norme di legge.
+
+E` condizione per la registrazione che gli statuti dei sindacati sanciscano un ordinamento interno a base democratica.
+
+I sindacati registrati hanno personalità giuridica. Possono, rappresentati unitariamente in proporzione dei loro iscritti, stipulare contratti collettivi di lavoro con efficacia obbligatoria per tutti gli appartenenti alle categorie alle quali il contratto si riferisce.
+
+#### Art. 40
+
+Il diritto di sciopero si esercita nell'ambito delle leggi che lo regolano.
+
+#### Art. 41
+
+L'iniziativa economica privata è libera.
+
+Non può svolgersi in contrasto con l'utilità sociale o in modo da recare danno alla salute, all’ambiente, alla sicurezza, alla libertà, alla dignità umana.
+
+La legge determina i programmi e i controlli opportuni perché l'attività economica pubblica e privata possa essere indirizzata e coordinata a fini sociali e ambientali [cfr. art. [43]].
+
+#### Art. 42
+
+La proprietà è pubblica o privata. I beni economici appartengono allo Stato, ad enti o a privati.
+
+La proprietà privata è riconosciuta e garantita dalla legge, che ne determina i modi di acquisto, di godimento e i limiti allo scopo di assicurarne la funzione sociale e di renderla accessibile a tutti [cfr. artt. [44], [47] c. 2].
+
+La proprietà privata può essere, nei casi preveduti dalla legge, e salvo indennizzo, espropriata per motivi d'interesse generale.
+
+La legge stabilisce le norme ed i limiti della successione legittima e testamentaria e i diritti dello Stato sulle eredità.
+
+#### Art. 43
+
+A fini di utilità generale la legge può riservare originariamente o trasferire, mediante espropriazione e salvo indennizzo, allo Stato, ad enti pubblici o a comunità di lavoratori o di utenti determinate imprese o categorie di imprese, che si riferiscano a servizi pubblici essenziali o a fonti di energia o a situazioni di monopolio ed abbiano carattere di preminente interesse generale.
+
+#### Art. 44
+
+Al fine di conseguire il razionale sfruttamento del suolo e di stabilire equi rapporti sociali, la legge impone obblighi e vincoli alla proprietà terriera privata, fissa limiti alla sua estensione secondo le regioni e le zone agrarie, promuove ed impone la bonifica delle terre, la trasformazione del latifondo e la ricostituzione delle unità produttive; aiuta la piccola e la media proprietà [cfr. art. [42] cc. 2, 3].
+
+La legge dispone provvedimenti a favore delle zone montane.
+
+#### Art. 45
+
+La Repubblica riconosce la funzione sociale della cooperazione a carattere di mutualità e senza fini di speculazione privata. La legge ne promuove e favorisce l'incremento con i mezzi più idonei e ne assicura, con gli opportuni controlli, il carattere e le finalità.
+
+La legge provvede alla tutela e allo sviluppo dell'artigianato.
+
+#### Art. 46
+
+Ai fini della elevazione economica e sociale del lavoro e in armonia con le esigenze della produzione, la Repubblica riconosce il diritto dei lavoratori a collaborare, nei modi e nei limiti stabiliti dalle leggi, alla gestione delle aziende.
+
+#### Art. 47
+
+La Repubblica incoraggia e tutela il risparmio in tutte le sue forme; disciplina, coordina e controlla l'esercizio del credito.
+
+Favorisce l'accesso del risparmio popolare alla proprietà dell'abitazione, alla proprietà diretta coltivatrice e al diretto e indiretto investimento azionario nei grandi complessi produttivi del Paese.
+
 ### Titolo Quarto - Rapporti Politici
+
+#### Art. 48
+
+Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore età [cfr. artt. 56 , 58 , 71 c. 2 , 75 cc. 1, 3 , 138 c. 2 , XIII c.1].
+
+Il voto è personale ed eguale, libero e segreto. Il suo esercizio è dovere civico.
+
+La legge stabilisce requisiti e modalità per l'esercizio del diritto di voto dei cittadini residenti all'estero e ne assicura l'effettività. A tale fine è istituita una circoscrizione Estero per l'elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge.
+
+Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge [cfr. artt. XII c. 2 , XIII c. 1].
+
+#### Art. 49
+
+Tutti i cittadini hanno diritto di associarsi liberamente in partiti per concorrere con metodo democratico a determinare la politica nazionale [cfr. artt. 18, 98 c. 3, XII c. 1].
+
+#### Art. 50
+
+Tutti i cittadini possono rivolgere petizioni alle Camere per chiedere provvedimenti legislativi o esporre comuni necessità.
+
+#### Art. 51
+
+Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge [cfr. artt. 56 c. 3, 58 c. 2, 84 c. 1, 97 c. 3, 104 c. 4, 106, 135 cc. 1, 2, 6, XIII c. 1]. A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunità tra donne e uomini.
+
+La legge può, per l'ammissione ai pubblici uffici e alle cariche elettive, parificare ai cittadini gli italiani non appartenenti alla Repubblica.
+
+Chi è chiamato a funzioni pubbliche elettive ha diritto di disporre del tempo necessario al loro adempimento e di conservare il suo posto di lavoro.
+
+#### Art. 52
+
+La difesa della Patria è sacro dovere del cittadino.
+
+Il servizio militare è obbligatorio nei limiti e modi stabiliti dalla legge. Il suo adempimento non pregiudica la posizione di lavoro del cittadino, né l'esercizio dei diritti politici.
+
+L'ordinamento delle Forze armate si informa allo spirito democratico della Repubblica.
+
+#### Art. 53
+
+Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità contributiva.
+
+Il sistema tributario è informato a criteri di progressività.
+
+#### Art. 54
+
+Tutti i cittadini hanno il dovere di essere fedeli alla Repubblica e di osservarne la Costituzione e le leggi.
+
+I cittadini cui sono affidate funzioni pubbliche hanno il dovere di adempierle con disciplina ed onore, prestando giuramento nei casi stabiliti dalla legge.
 
 ## Parte Seconda - Ordinamento dela Repubblica
 
@@ -473,6 +649,36 @@ A tale scopo nomina fra i propri componenti una Commissione formata in modo da r
 
 ### Titolo II - Il Presidente della Repubblica
 
+#### Art. 83
+
+Il Presidente della Repubblica è eletto dal Parlamento in seduta comune dei suoi membri [cfr. artt. 55 c.2, 85].
+
+All'elezione partecipano tre delegati per ogni Regione [cfr. art. 85 c.2] eletti dal Consiglio regionale in modo che sia assicurata la rappresentanza delle minoranze. La Valle d'Aosta ha un solo delegato [cfr. II].
+
+L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi dell'assemblea. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta.
+
+#### Art. 84
+
+Può essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto cinquanta anni d'età e goda dei diritti civili e politici.
+
+L'ufficio di Presidente della Repubblica è incompatibile con qualsiasi altra carica.
+
+L'assegno e la dotazione del Presidente sono determinati per legge.
+
+#### Art. 85
+
+Il Presidente della Repubblica è eletto per sette anni.
+
+Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati [cfr. art. 63 c.2] convoca in seduta comune il Parlamento e i delegati regionali [cfr. art. 83 c.2], per eleggere il nuovo Presidente della Repubblica.
+
+Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove [cfr. art. 61 c.1]. Nel frattempo sono prorogati i poteri del Presidente in carica.
+
+#### Art. 86
+
+Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente del Senato.
+
+In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati [cfr. art. 63 c.2] indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Camere sono sciolte o manca meno di tre mesi alla loro cessazione [cfr. art. 85 c.3].
+
 #### Art. 87
 
 Il Presidente della Repubblica è il capo dello Stato e rappresenta l'unità nazionale.
@@ -498,6 +704,28 @@ Presiede il Consiglio superiore della magistratura [cfr. art. [104] c.2].
 Può concedere grazia e commutare le pene.
 
 Conferisce le onorificenze della Repubblica.
+
+#### Art. 88
+
+Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse.
+
+Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura.
+
+#### Art. 89
+
+Nessun atto del Presidente della Repubblica è valido se non è controfirmato dai ministri proponenti, che ne assumono la responsabilità.
+
+Gli atti che hanno valore legislativo [cfr. artt. 76, 77 ] e gli altri indicati dalla legge sono controfirmati anche dal Presidente del Consiglio dei Ministri.
+
+#### Art. 90
+
+Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione.
+
+In tali casi è messo in stato di accusa dal Parlamento in seduta comune [cfr. art. 55 c.2], a maggioranza assoluta dei suoi membri [cfr. artt. 134, 135 c.7 ].
+
+#### Art. 91
+
+Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedeltà alla Repubblica e di osservanza della Costituzione dinanzi al Parlamento in seduta comune [cfr. art. 55 c.2].
 
 ### Titolo III - Il Governo
 
