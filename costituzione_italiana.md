@@ -731,6 +731,18 @@ Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuram
 
 #### Sezione I - Il Consiglio dei Ministri
 
+##### Art. 92
+
+Il Governo della Repubblica è composto del Presidente del Consiglio e dei Ministri, che costituiscono insieme il Consiglio dei Ministri.
+
+Il Presidente della Repubblica nomina il Presidente del Consiglio dei Ministri e, su proposta di questo, i Ministri.
+
+##### Art. 93
+##### Art. 94
+##### Art. 95
+##### Art. 96
+##### Art. 97
+
 #### Sezione II - La Pubblica Amministrazione
 
 #### Sezione III - Gli Organi Ausiliari
