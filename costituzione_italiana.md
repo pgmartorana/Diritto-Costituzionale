@@ -60,7 +60,7 @@ La sovranitá appartiene al popolo, che la esercita nelle forme e nei limiti del
 
 ### Art. 2
 
-La Repubblica riconosce e **garantisce** i diritti inviolabili dell'uomo, sia come singolo, sia nelle formazioni sociali ove si svolge la sua personalitá, e **richiede** l'adempimento dei doveri inderogabili di solidarietá politica, economica e sociale.
+La Repubblica riconosce e garantisce i diritti inviolabili dell'uomo, sia come singolo, sia nelle formazioni sociali ove si svolge la sua personalitá, e richiede l'adempimento dei doveri inderogabili di solidarietá politica, economica e sociale.
 
 ### Art. 3
 
@@ -102,7 +102,7 @@ La condizione giuridica dello straniero è regolata dalla legge in conformità d
 
 Lo straniero, al quale sia impedito nel suo paese l'effettivo esercizio delle libertà democratiche garantite dalla Costituzione italiana, ha diritto d'asilo nel territorio della Repubblica, secondo le condizioni stabilite dalla legge.
 
-Non è ammessa l'estradizione dello straniero per reati politici [cfr. art. 26].
+Non è ammessa l'estradizione dello straniero per reati politici [cfr. art. [26]].
 
 ### Art. 11
 
@@ -120,11 +120,11 @@ La bandiera della Repubblica è il tricolore italiano: verde, bianco e rosso, a 
 
 La libertà personale è inviolabile.
 
-Non è ammessa forma alcuna di detenzione, di ispezione o perquisizione personale, né qualsiasi altra restrizione della libertà personale, se non per atto motivato dell'autorità giudiziaria [cfr. art. 111 c. 1, 2] e nei soli casi e modi previsti dalla legge [cfr. art. 25 c. 3].
+Non è ammessa forma alcuna di detenzione, di ispezione o perquisizione personale, né qualsiasi altra restrizione della libertà personale, se non per atto motivato dell'autorità giudiziaria [cfr. art. 111 c. 1, 2] e nei soli casi e modi previsti dalla legge [cfr. art. [25] c. 3].
 
 In casi eccezionali di necessità ed urgenza, indicati tassativamente dalla legge l'autorità di pubblica sicurezza può adottare provvedimenti provvisori, che devono essere comunicati entro quarantotto ore all'autorità giudiziaria e, se questa non li convalida nelle successive quarantotto ore, si intendono revocati e restano privi di ogni effetto.
 
-E` punita ogni violenza fisica e morale sulle persone comunque sottoposte a restrizioni di libertà [cfr. art. 27 c. 3];.
+E` punita ogni violenza fisica e morale sulle persone comunque sottoposte a restrizioni di libertà [cfr. art. [27] c. 3];.
 
 La legge stabilisce i limiti massimi della carcerazione preventiva.
 
@@ -132,7 +132,7 @@ La legge stabilisce i limiti massimi della carcerazione preventiva.
 
 Il domicilio è inviolabile.
 
-Non vi si possono eseguire ispezioni o perquisizioni o sequestri, se non nei casi e modi stabiliti dalla legge secondo le garanzie prescritte per la tutela della libertà personale [cfr. artt. 13, 111 c. 2].
+Non vi si possono eseguire ispezioni o perquisizioni o sequestri, se non nei casi e modi stabiliti dalla legge secondo le garanzie prescritte per la tutela della libertà personale [cfr. artt. [13], [111] c. 2].
 
 Gli accertamenti e le ispezioni per motivi di sanità e di incolumità pubblica o a fini economici e fiscali sono regolati da leggi speciali.
 
@@ -140,13 +140,13 @@ Gli accertamenti e le ispezioni per motivi di sanità e di incolumità pubblica 
 
 La libertà e la segretezza della corrispondenza e di ogni altra forma di comunicazione sono inviolabili.
 
-La loro limitazione può avvenire soltanto per atto motivato dell'autorità giudiziaria [cfr. art. 111 c. 1] con le garanzie stabilite dalla legge.
+La loro limitazione può avvenire soltanto per atto motivato dell'autorità giudiziaria [cfr. art. [111] c. 1] con le garanzie stabilite dalla legge.
 
 #### Art. 16
 
-Ogni cittadino può circolare e soggiornare liberamente in qualsiasi parte del territorio nazionale, salvo le limitazioni che la legge stabilisce in via generale per motivi di sanità o di sicurezza. Nessuna restrizione può essere determinata da ragioni politiche [cfr. art. 120 c. 2, XIII c. 2].
+Ogni cittadino può circolare e soggiornare liberamente in qualsiasi parte del territorio nazionale, salvo le limitazioni che la legge stabilisce in via generale per motivi di sanità o di sicurezza. Nessuna restrizione può essere determinata da ragioni politiche [cfr. art. [120] c. 2, XIII c. 2].
 
-Ogni cittadino è libero di uscire dal territorio della Repubblica e di rientrarvi, salvo gli obblighi di legge [cfr. art. 35 c.4].
+Ogni cittadino è libero di uscire dal territorio della Repubblica e di rientrarvi, salvo gli obblighi di legge [cfr. art. [35] c.4].
 
 #### Art. 17
 
@@ -158,13 +158,13 @@ Delle riunioni in luogo pubblico deve essere dato preavviso alle autorità, che 
 
 #### Art. 18
 
-I cittadini hanno diritto di associarsi liberamente, senza autorizzazione, per fini che non sono vietati ai singoli dalla legge penale [cfr. artt. 19, 20, 39, 49].
+I cittadini hanno diritto di associarsi liberamente, senza autorizzazione, per fini che non sono vietati ai singoli dalla legge penale [cfr. artt. [19], [20], [39], [49]].
 
 Sono proibite le associazioni segrete e quelle che perseguono, anche indirettamente, scopi politici mediante organizzazioni di carattere militare.
 
 #### Art. 19
 
-Tutti hanno diritto di professare liberamente la propria fede religiosa in qualsiasi forma, individuale o associata, di farne propaganda e di esercitarne in privato o in pubblico il culto, purché non si tratti di riti contrari al buon costume [cfr. artt. 8, 20].
+Tutti hanno diritto di professare liberamente la propria fede religiosa in qualsiasi forma, individuale o associata, di farne propaganda e di esercitarne in privato o in pubblico il culto, purché non si tratti di riti contrari al buon costume [cfr. artt. [8], [20]].
 
 #### Art. 20
 
@@ -222,7 +222,7 @@ La responsabilità penale è personale.
 
 L'imputato non è considerato colpevole sino alla condanna definitiva.
 
-Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato [cfr. art. 13 c. 4].
+Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato [cfr. art. [13] c. 4].
 
 Non è ammessa la pena di morte.
 
@@ -242,7 +242,7 @@ Il matrimonio è ordinato sull'uguaglianza morale e giuridica dei coniugi, con i
 
 #### Art. 30
 
-E` dovere e diritto dei genitori mantenere, istruire ed educare i figli, anche se nati fuori del matrimonio.
+È dovere e diritto dei genitori mantenere, istruire ed educare i figli, anche se nati fuori del matrimonio.
 
 Nei casi di incapacità dei genitori, la legge provvede a che siano assolti i loro compiti.
 
@@ -278,7 +278,7 @@ Enti e privati hanno il diritto di istituire scuole ed istituti di educazione, s
 
 La legge, nel fissare i diritti e gli obblighi delle scuole non statali che chiedono la parità, deve assicurare ad esse piena libertà e ai loro alunni un trattamento scolastico equipollente a quello degli alunni di scuole statali.
 
-E` prescritto un esame di Stato per l'ammissione ai vari ordini e gradi di scuole o per la conclusione di essi e per l'abilitazione all'esercizio professionale.
+È prescritto un esame di Stato per l'ammissione ai vari ordini e gradi di scuole o per la conclusione di essi e per l'abilitazione all'esercizio professionale.
 
 Le istituzioni di alta cultura, università ed accademie, hanno il diritto di darsi ordinamenti autonomi nei limiti stabiliti dalle leggi dello Stato.
 
@@ -396,17 +396,17 @@ Favorisce l'accesso del risparmio popolare alla proprietà dell'abitazione, alla
 
 #### Art. 48
 
-Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore età [cfr. artt. 56 , 58 , 71 c. 2 , 75 cc. 1, 3 , 138 c. 2 , XIII c.1].
+Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore età [cfr. artt. [56] , [58] , [71] c. 2 , [75] cc. 1,3 , [138] c. 2 , [XIII] c.1].
 
 Il voto è personale ed eguale, libero e segreto. Il suo esercizio è dovere civico.
 
 La legge stabilisce requisiti e modalità per l'esercizio del diritto di voto dei cittadini residenti all'estero e ne assicura l'effettività. A tale fine è istituita una circoscrizione Estero per l'elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge.
 
-Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge [cfr. artt. XII c. 2 , XIII c. 1].
+Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge [cfr. artt. [XII] c. 2 , [XIII] c. 1].
 
 #### Art. 49
 
-Tutti i cittadini hanno diritto di associarsi liberamente in partiti per concorrere con metodo democratico a determinare la politica nazionale [cfr. artt. 18, 98 c. 3, XII c. 1].
+Tutti i cittadini hanno diritto di associarsi liberamente in partiti per concorrere con metodo democratico a determinare la politica nazionale [cfr. artt. [18], [98] c. 3, [XII] c. 1].
 
 #### Art. 50
 
@@ -414,7 +414,7 @@ Tutti i cittadini possono rivolgere petizioni alle Camere per chiedere provvedim
 
 #### Art. 51
 
-Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge [cfr. artt. 56 c. 3, 58 c. 2, 84 c. 1, 97 c. 3, 104 c. 4, 106, 135 cc. 1, 2, 6, XIII c. 1]. A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunità tra donne e uomini.
+Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge [cfr. artt. [56] c. 3, [58] c. 2, [84] c. 1, [97] c. 3, [104] c. 4, [106], [135] cc. 1, 2, 6, [XIII] c. 1]. A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunità tra donne e uomini.
 
 La legge può, per l'ammissione ai pubblici uffici e alle cariche elettive, parificare ai cittadini gli italiani non appartenenti alla Repubblica.
 
@@ -500,20 +500,17 @@ Finché non siano riunite le nuove Camere sono prorogati i poteri delle preceden
 
 ##### Art. 62
 
-<a name="62c1"></a>
 Le Camere si riuniscono di diritto il primo giorno non festivo di febbraio e di ottobre.
 
-<a name="62c2"></a>
 Ciascuna Camera può essere convocata in via straordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti [cfr. art. [77] c. 2].
 
-<a name="62c3"></a>
 Quando si riunisce in via straordinaria una Camera, è convocata di diritto anche l'altra.
 
 ##### Art. 63
 
 Ciascuna Camera elegge fra i suoi componenti il Presidente e l'Ufficio di presidenza.
 
-Quando il Parlamento si riunisce in seduta comune [cfr. art. 55 c. 2], il Presidente e l'Ufficio di presidenza sono quelli della Camera dei deputati.
+Quando il Parlamento si riunisce in seduta comune [cfr. art. [55] c. 2], il Presidente e l'Ufficio di presidenza sono quelli della Camera dei deputati.
 
 ##### Art. 64
 
@@ -625,7 +622,7 @@ In ogni caso l'amnistia e l'indulto non possono applicarsi ai reati commessi suc
 
 ##### Art. 80
 
-Le Camere autorizzano con legge la ratifica dei trattati internazionali [cfr. art. 87 c. 8] che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi [cfr. artt. [72] c. 4, [75] c. 2, V].
+Le Camere autorizzano con legge la ratifica dei trattati internazionali [cfr. art. 87 c. 8] che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi [cfr. artt. [72] c. 4, [75] c. 2, [V]].
 
 ##### Art. 81
 
@@ -651,9 +648,9 @@ A tale scopo nomina fra i propri componenti una Commissione formata in modo da r
 
 #### Art. 83
 
-Il Presidente della Repubblica è eletto dal Parlamento in seduta comune dei suoi membri [cfr. artt. 55 c.2, 85].
+Il Presidente della Repubblica è eletto dal Parlamento in seduta comune dei suoi membri [cfr. artt. [55] c.2, [85]].
 
-All'elezione partecipano tre delegati per ogni Regione [cfr. art. 85 c.2] eletti dal Consiglio regionale in modo che sia assicurata la rappresentanza delle minoranze. La Valle d'Aosta ha un solo delegato [cfr. II].
+All'elezione partecipano tre delegati per ogni Regione [cfr. art. 85 c.2] eletti dal Consiglio regionale in modo che sia assicurata la rappresentanza delle minoranze. La Valle d'Aosta ha un solo delegato [cfr. [II]].
 
 L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi dell'assemblea. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta.
 
@@ -669,15 +666,15 @@ L'assegno e la dotazione del Presidente sono determinati per legge.
 
 Il Presidente della Repubblica è eletto per sette anni.
 
-Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati [cfr. art. 63 c.2] convoca in seduta comune il Parlamento e i delegati regionali [cfr. art. 83 c.2], per eleggere il nuovo Presidente della Repubblica.
+Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati [cfr. art. [63] c.2] convoca in seduta comune il Parlamento e i delegati regionali [cfr. art. [83] c.2], per eleggere il nuovo Presidente della Repubblica.
 
-Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove [cfr. art. 61 c.1]. Nel frattempo sono prorogati i poteri del Presidente in carica.
+Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove [cfr. art. [61] c.1]. Nel frattempo sono prorogati i poteri del Presidente in carica.
 
 #### Art. 86
 
 Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente del Senato.
 
-In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati [cfr. art. 63 c.2] indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Camere sono sciolte o manca meno di tre mesi alla loro cessazione [cfr. art. 85 c.3].
+In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati [cfr. art. 63 c.2] indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Camere sono sciolte o manca meno di tre mesi alla loro cessazione [cfr. art. [85] c.3].
 
 #### Art. 87
 
@@ -715,17 +712,17 @@ Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo c
 
 Nessun atto del Presidente della Repubblica è valido se non è controfirmato dai ministri proponenti, che ne assumono la responsabilità.
 
-Gli atti che hanno valore legislativo [cfr. artt. 76, 77 ] e gli altri indicati dalla legge sono controfirmati anche dal Presidente del Consiglio dei Ministri.
+Gli atti che hanno valore legislativo [cfr. artt. [76], [77]] e gli altri indicati dalla legge sono controfirmati anche dal Presidente del Consiglio dei Ministri.
 
 #### Art. 90
 
 Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione.
 
-In tali casi è messo in stato di accusa dal Parlamento in seduta comune [cfr. art. 55 c.2], a maggioranza assoluta dei suoi membri [cfr. artt. 134, 135 c.7 ].
+In tali casi è messo in stato di accusa dal Parlamento in seduta comune [cfr. art. 55 c.2], a maggioranza assoluta dei suoi membri [cfr. artt. [134], [135] c.7 ].
 
 #### Art. 91
 
-Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedeltà alla Repubblica e di osservanza della Costituzione dinanzi al Parlamento in seduta comune [cfr. art. 55 c.2].
+Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedeltà alla Repubblica e di osservanza della Costituzione dinanzi al Parlamento in seduta comune [cfr. art. [55] c.2].
 
 ### Titolo III - Il Governo
 
@@ -757,9 +754,9 @@ La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti de
 
 Il Presidente del Consiglio dei Ministri dirige la politica generale del Governo e ne è responsabile. Mantiene l'unità di indirizzo politico ed amministrativo, promuovendo e coordinando l'attività dei Ministri.
 
-I Ministri sono responsabili collegialmente degli atti del Consiglio dei Ministri, e individualmente degli atti dei loro dicasteri [cfr. art. 89].
+I Ministri sono responsabili collegialmente degli atti del Consiglio dei Ministri, e individualmente degli atti dei loro dicasteri [cfr. art. [89]].
 
-La legge provvede all'ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l'organizzazione dei Ministeri [cfr. art. 97 c.1].
+La legge provvede all'ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l'organizzazione dei Ministeri [cfr. art. [97] c.1].
 
 ##### Art. 96
 
@@ -771,11 +768,11 @@ Il Presidente del Consiglio dei Ministri ed i Ministri, anche se cessati dalla c
 
 Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilità del debito pubblico.
 
-I pubblici uffici sono organizzati secondo disposizioni di legge [95 c.3], in modo che siano assicurati il buon andamento e l'imparzialità dell'amministrazione.
+I pubblici uffici sono organizzati secondo disposizioni di legge [[95] c.3], in modo che siano assicurati il buon andamento e l'imparzialità dell'amministrazione.
 
 Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari [28].
 
-Agli impieghi nelle pubbliche amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge [51 c.1].
+Agli impieghi nelle pubbliche amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge [[51] c.1].
 
 ##### Art. 98
 
@@ -799,7 +796,7 @@ Ha l'iniziativa legislativa [cfr. art. 71 c.1] e può contribuire alla elaborazi
 
 Il Consiglio di Stato [cfr. art. [103] c.1] è organo di consulenza giuridico-amministrativa e di tutela della giustizia nell'amministrazione.
 
-La Corte dei conti [cfr. art. [103] c.2] esercita il controllo preventivo di legittimità sugli atti del Governo, e anche quello successivo sulla gestione del bilancio dello Stato. Partecipa, nei casi e nelle forme stabilite dalla legge, al controllo sulla gestione finanziaria degli enti a cui lo Stato contribuisce in via ordinaria. Riferisce direttamente alle Camere sul risultato del riscontro eseguito [cfr. art. 81 c.1].
+La Corte dei conti [cfr. art. [103] c.2] esercita il controllo preventivo di legittimità sugli atti del Governo, e anche quello successivo sulla gestione del bilancio dello Stato. Partecipa, nei casi e nelle forme stabilite dalla legge, al controllo sulla gestione finanziaria degli enti a cui lo Stato contribuisce in via ordinaria. Riferisce direttamente alle Camere sul risultato del riscontro eseguito [cfr. art. [81] c.1].
 
 La legge assicura l'indipendenza dei due Istituti e dei loro componenti di fronte al Governo [cfr. art. [108] c.2].
 
@@ -815,7 +812,7 @@ I giudici sono soggetti soltanto alla legge.
 
 ##### Art. 102
 
-La funzione giurisdizionale è esercitata da magistrati ordinari istituiti e regolati dalle norme sull'ordinamento giudiziario [cfr. art. 108].
+La funzione giurisdizionale è esercitata da magistrati ordinari istituiti e regolati dalle norme sull'ordinamento giudiziario [cfr. art. [108]].
 
 Non possono essere istituiti giudici straordinari o giudici speciali [cfr. art. 25 c.1]. Possono soltanto istituirsi presso gli organi giudiziari ordinari sezioni specializzate per determinate materie, anche con la partecipazione di cittadini idonei estranei alla magistratura [cfr. VI].
 
@@ -823,17 +820,17 @@ La legge regola i casi e le forme della partecipazione diretta del popolo all'am
 
 ##### Art. 103
 
-Il Consiglio di Stato [cfr. art. 100 c.1] e gli altri organi di giustizia amministrativa hanno giurisdizione per la tutela nei confronti della pubblica amministrazione degli interessi legittimi e, in particolari materie indicate dalla legge, anche dei diritti soggettivi [cfr. artt. 24 c.1, 111 c.3, 113, 125 c.2 ].
+Il Consiglio di Stato [cfr. art. [100] c.1] e gli altri organi di giustizia amministrativa hanno giurisdizione per la tutela nei confronti della pubblica amministrazione degli interessi legittimi e, in particolari materie indicate dalla legge, anche dei diritti soggettivi [cfr. artt. [24] c.1, [111] c.3, [113], [125] c.2 ].
 
-La Corte dei conti [cfr. art. 100 c.2] ha giurisdizione nelle materie di contabilità pubblica e nelle altre specificate dalla legge [cfr. art. 113 c.3].
+La Corte dei conti [cfr. art. [100] c.2] ha giurisdizione nelle materie di contabilità pubblica e nelle altre specificate dalla legge [cfr. art. [113] c.3].
 
-I tribunali militari in tempo di guerra hanno la giurisdizione stabilita dalla legge. In tempo di pace hanno giurisdizione soltanto per i reati militari commessi da appartenenti alle Forze armate [cfr. art. 111 c.2, VI c.2].
+I tribunali militari in tempo di guerra hanno la giurisdizione stabilita dalla legge. In tempo di pace hanno giurisdizione soltanto per i reati militari commessi da appartenenti alle Forze armate [cfr. art. [111] c.2, [VI] c.2].
 
 ##### Art. 104
 
 La magistratura costituisce un ordine autonomo e indipendente da ogni altro potere.
 
-Il Consiglio superiore della magistratura [cfr. artt. 105, 106 c.3, 107 c.1 ] è presieduto dal Presidente della Repubblica [cfr. art. ].
+Il Consiglio superiore della magistratura [cfr. artt. [105], [106] c.3, [107] c.1 ] è presieduto dal Presidente della Repubblica [cfr. art. [todo]].
 
 Ne fanno parte di diritto il primo presidente e il procuratore generale della Corte di cassazione.
 
@@ -847,13 +844,13 @@ Non possono, finché sono in carica, essere iscritti negli albi professionali, n
 
 ##### Art. 105
 
-Spettano al Consiglio superiore della magistratura, secondo le norme dell'ordinamento giudiziario, le assunzioni, le assegnazioni ed i trasferimenti, le promozioni e i provvedimenti disciplinari nei riguardi dei magistrati [cfr. artt. 106, 107].
+Spettano al Consiglio superiore della magistratura, secondo le norme dell'ordinamento giudiziario, le assunzioni, le assegnazioni ed i trasferimenti, le promozioni e i provvedimenti disciplinari nei riguardi dei magistrati [cfr. artt. [106], [107]].
 
 ##### Art. 106
 
 Le nomine dei magistrati hanno luogo per concorso.
 
-La legge sull'ordinamento giudiziario [cfr. art. 108] può ammettere la nomina, anche elettiva, di magistrati onorari per tutte le funzioni attribuite a giudici singoli.
+La legge sull'ordinamento giudiziario [cfr. art. [108]] può ammettere la nomina, anche elettiva, di magistrati onorari per tutte le funzioni attribuite a giudici singoli.
 
 Su designazione del Consiglio superiore della magistratura possono essere chiamati all'ufficio di consiglieri di cassazione, per meriti insigni, professori ordinari di università in materie giuridiche e avvocati che abbiano quindici anni d'esercizio e siano iscritti negli albi speciali per le giurisdizioni superiori.
 
@@ -869,9 +866,9 @@ Il pubblico ministero gode delle garanzie stabilite nei suoi riguardi dalle norm
 
 ##### Art. 108
 
-Le norme sull'ordinamento giudiziario e su ogni magistratura sono stabilite con legge [cfr. VII c.1].
+Le norme sull'ordinamento giudiziario e su ogni magistratura sono stabilite con legge [cfr. [VII] c.1].
 
-La legge assicura l'indipendenza dei giudici delle giurisdizioni speciali [cfr. art. 100 c.3], del pubblico ministero presso di esse, e degli estranei che partecipano all'amministrazione della giustizia [cfr. art. 102 c.2,3]
+La legge assicura l'indipendenza dei giudici delle giurisdizioni speciali [cfr. art. [100] c.3], del pubblico ministero presso di esse, e degli estranei che partecipano all'amministrazione della giustizia [cfr. art. [102] c.2,3]
 
 ##### Art. 109
 
@@ -879,7 +876,7 @@ L'autorità giudiziaria dispone direttamente della polizia giudiziaria.
 
 ##### Art. 110
 
-Ferme le competenze del Consiglio superiore della magistratura, spettano al Ministro della giustizia [cfr. art. 107 c.2] l'organizzazione e il funzionamento dei servizi relativi alla giustizia.
+Ferme le competenze del Consiglio superiore della magistratura, spettano al Ministro della giustizia [cfr. art. [107] c.2] l'organizzazione e il funzionamento dei servizi relativi alla giustizia.
 
 #### Sezione II - Norme sulla giurisdizione
 
@@ -895,11 +892,11 @@ Il processo penale è regolato dal principio del contraddittorio nella formazion
 
 La legge regola i casi in cui la formazione della prova non ha luogo in contraddittorio per consenso dell'imputato o per accertata impossibilità di natura oggettiva o per effetto di provata condotta illecita.
 
-Tutti i provvedimenti giurisdizionali devono essere motivati [cfr. artt. 13 c.2 , 14 c.2 , 15 c.2 , 21 c.3].
+Tutti i provvedimenti giurisdizionali devono essere motivati [cfr. artt. [13] c.2 , [14] c.2 , [15] c.2 , [21] c.3].
 
-Contro le sentenze e contro i provvedimenti sulla libertà personale [cfr. art. 13], pronunciati dagli organi giurisdizionali ordinari o speciali, è sempre ammesso ricorso in Cassazione per violazione di legge [cfr. art. 137 c.3]. Si può derogare a tale norma soltanto per le sentenze dei tribunali militari in tempo di guerra [cfr. art. 103 c.3 , VI c.2].
+Contro le sentenze e contro i provvedimenti sulla libertà personale [cfr. art. [13]], pronunciati dagli organi giurisdizionali ordinari o speciali, è sempre ammesso ricorso in Cassazione per violazione di legge [cfr. art. [137] c.3]. Si può derogare a tale norma soltanto per le sentenze dei tribunali militari in tempo di guerra [cfr. art. [103] c.3 , [VI] c.2].
 
-Contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione è ammesso per i soli motivi inerenti alla giurisdizione [cfr. art. 103 c.1,2].
+Contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione è ammesso per i soli motivi inerenti alla giurisdizione [cfr. art. [103] c.1,2].
 
 ##### Art. 112
 
@@ -907,7 +904,7 @@ Il pubblico ministero ha l'obbligo di esercitare l'azione penale.
 
 ##### Art. 113
 
-Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria o amministrativa [cfr. artt. 24 c.1, 103 c.1,2, 125 c.2 ].
+Contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria o amministrativa [cfr. artt. [24] c.1, [103] c.1,2, [125] c.2 ].
 
 Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mezzi di impugnazione o per determinate categorie di atti.
 
@@ -917,7 +914,7 @@ La legge determina quali organi di giurisdizione possono annullare gli atti dell
 
 #### Art. 114
 
-La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni [cfr. art. 131] e dallo Stato.
+La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni [cfr. art. [131]] e dallo Stato.
 
 I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i princìpi fissati dalla Costituzione.
 
@@ -933,11 +930,11 @@ Il Friuli Venezia Giulia [cfr. X], la Sardegna, la Sicilia, il Trentino-Alto Adi
 
 La Regione Trentino-Alto Adige/Südtirol è costituita dalle Province autonome di Trento e di Bolzano.
 
-Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei princìpi di cui all'articolo 119. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.
+Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei princìpi di cui all'articolo [119]. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.
 
 #### Art. 117
 
-La potestà legislativa è esercitata dallo Stato [70 e segg.] e dalle Regioni nel rispetto della Costituzione, nonchè dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali.
+La potestà legislativa è esercitata dallo Stato [[70] e segg.] e dalle Regioni nel rispetto della Costituzione, nonchè dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali.
 
 Lo Stato ha legislazione esclusiva nelle seguenti materie:
 a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini di Stati non appartenenti all'Unione europea;
@@ -1008,11 +1005,11 @@ Il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane, 
 
 Sono organi della Regione: il Consiglio regionale, la Giunta e il suo Presidente.
 
-Il Consiglio regionale esercita le potestà legislative attribuite alla Regione [cfr. art. 117 c.1,3,4] e le altre funzioni conferitegli dalla Costituzione [cfr. artt. 75 c.1, 83 c.2, 122 c.5, 123 c.2, 126 c.2, 132, 138 c.2 ] e dalle leggi. Può fare proposte di legge alle Camere [cfr. art. 71 c.1].
+Il Consiglio regionale esercita le potestà legislative attribuite alla Regione [cfr. art. [117] c.1,3,4] e le altre funzioni conferitegli dalla Costituzione [cfr. artt. [75] c.1, [83] c.2, [122] c.5, [123] c.2, [126] c.2, [132], [138] c.2 ] e dalle leggi. Può fare proposte di legge alle Camere [cfr. art. [71] c.1].
 
 La Giunta regionale è l'organo esecutivo delle Regioni.
 
-Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne è responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione [cfr. art. 118 c.1], conformandosi alle istruzioni del Governo della Repubblica.
+Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne è responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione [cfr. art. [118] c.1], conformandosi alle istruzioni del Governo della Repubblica.
 
 #### Art. 122
 
@@ -1054,9 +1051,9 @@ L'approvazione della mozione di sfiducia nei confronti del Presidente della Giun
 
 #### Art. 127
 
-Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale [cfr. artt. 134, 136 ] entro sessanta giorni dalla sua pubblicazione.
+Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale [cfr. artt. [134], [136] ] entro sessanta giorni dalla sua pubblicazione.
 
-La Regione, quando ritenga che una legge o un atto avente valore di legge dello Stato o di un'altra Regione leda la sua sfera di competenza, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale [cfr. artt. 134, 136 ] entro sessanta giorni dalla pubblicazione della legge o dell'atto avente valore di legge.
+La Regione, quando ritenga che una legge o un atto avente valore di legge dello Stato o di un'altra Regione leda la sua sfera di competenza, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale [cfr. artt. [134], [136] ] entro sessanta giorni dalla pubblicazione della legge o dell'atto avente valore di legge.
 
 #### Art. 128
 
@@ -1075,29 +1072,29 @@ La Regione, quando ritenga che una legge o un atto avente valore di legge dello 
 Sono costituite le seguenti Regioni:
 
 Piemonte;
-Valle d'Aosta [cfr. artt. 57 c.3, 83 c.2, 116 ];
+Valle d'Aosta [cfr. artt. [57] c.3, [83] c.2, [116]];
 Lombardia;
-Trentino-Alto Adige [cfr. art. 116 ];
+Trentino-Alto Adige [cfr. art. [116]];
 Veneto;
-Friuli-Venezia Giulia [cfr. art. 116, X ];
+Friuli-Venezia Giulia [cfr. art. [116], [X]];
 Liguria;
 Emilia-Romagna;
 Toscana;
 Umbria;
 Marche;
 Lazio;
-Abruzzi [cfr. IV ];
-Molise [cfr. art. 57 c.3, IV ];
+Abruzzi [cfr. [IV]];
+Molise [cfr. art. [57] c.3, [IV]];
 Campania;
 Puglia;
 Basilicata;
 Calabria;
-Sicilia [cfr. art. 116 ];
-Sardegna [cfr. art. 116 ].
+Sicilia [cfr. art. [116]];
+Sardegna [cfr. art. [116]].
 
 #### Art. 132
 
-Si può con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d'abitanti, quando ne facciano richiesta tanti Consigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse [cfr. XI].
+Si può con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d'abitanti, quando ne facciano richiesta tanti Consigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse [cfr. [XI]].
 
 Si può, con l'approvazione della maggioranza delle popolazioni della Provincia o delle Province interessate e del Comune o dei Comuni interessati espressa mediante referendum e con legge della Repubblica, sentiti i Consigli regionali, consentire che Provincie e Comuni, che ne facciano richiesta, siano staccati da una Regione ed aggregati ad un'altra.
 
@@ -1113,9 +1110,9 @@ La Regione, sentite le popolazioni interessate, può con sue leggi istituire nel
 
 ##### Art. 134
 
-La Corte costituzionale giudica [cfr. VII c.2]:
+La Corte costituzionale giudica [cfr. [VII] c.2]:
 
-sulle controversie relative alla legittimità costituzionale delle leggi e degli atti, aventi forza di legge [cfr. artt. 76, 77 ], dello Stato e delle Regioni [cfr. art. [127] ];
+sulle controversie relative alla legittimità costituzionale delle leggi e degli atti, aventi forza di legge [cfr. artt. [76], [77]], dello Stato e delle Regioni [cfr. art. [127] ];
 
 sui conflitti di attribuzione tra i poteri dello Stato e su quelli tra lo Stato e le Regioni, e tra le Regioni;
 
