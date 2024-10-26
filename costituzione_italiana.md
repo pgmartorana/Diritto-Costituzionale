@@ -788,7 +788,7 @@ Si possono con legge stabilire limitazioni al diritto d'iscriversi ai partiti po
 
 Il Consiglio nazionale dell'economia e del lavoro è composto, nei modi stabiliti dalla legge, di esperti e di rappresentanti delle categorie produttive, in misura che tenga conto della loro importanza numerica e qualitativa.
 
-E` organo di consulenza delle Camere e del Governo per le materie e secondo le funzioni che gli sono attribuite dalla legge.
+È organo di consulenza delle Camere e del Governo per le materie e secondo le funzioni che gli sono attribuite dalla legge.
 
 Ha l'iniziativa legislativa [cfr. art. 71 c.1] e può contribuire alla elaborazione della legislazione economica e sociale secondo i principi ed entro i limiti stabiliti dalla legge.
 
@@ -814,7 +814,7 @@ I giudici sono soggetti soltanto alla legge.
 
 La funzione giurisdizionale è esercitata da magistrati ordinari istituiti e regolati dalle norme sull'ordinamento giudiziario [cfr. art. [108]].
 
-Non possono essere istituiti giudici straordinari o giudici speciali [cfr. art. 25 c.1]. Possono soltanto istituirsi presso gli organi giudiziari ordinari sezioni specializzate per determinate materie, anche con la partecipazione di cittadini idonei estranei alla magistratura [cfr. VI].
+Non possono essere istituiti giudici straordinari o giudici speciali [cfr. art. [25] c.1]. Possono soltanto istituirsi presso gli organi giudiziari ordinari sezioni specializzate per determinate materie, anche con la partecipazione di cittadini idonei estranei alla magistratura [cfr. [VI]].
 
 La legge regola i casi e le forme della partecipazione diretta del popolo all'amministrazione della giustizia.
 
