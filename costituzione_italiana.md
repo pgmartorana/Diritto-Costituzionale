@@ -50,6 +50,22 @@ testo aggiornato alla legge costituzionale 18 Ottobre 2021, n.1
 
 * [I],[II],[III],[IV],[V],[VI],[VII],[VIII],[IX],[X],[XI],[XII],[XIII],[XIV],[XV],[XVI]
 
+----
+
+## COSTITUZIONE DELLA REPUBBLICA ITALIANA
+
+[ Gazzetta Ufficiale 27 dicembre 1947, n. 298 ]
+
+**IL CAPO PROVVISORIO DELLO STATO**
+
+Vista la deliberazione dell’Assemblea Costituente, che nella seduta del
+22 dicembre 1947 ha approvato la Costituzione della Repubblica Italiana;
+Vista la XVIII disposizione finale della Costituzione;
+
+**PROMULGA**
+
+La Costituzione della Repubblica Italiana nel seguente testo:
+
 ## Principi Fondamentali [1-12]
 
 ### Art. 1
@@ -92,7 +108,7 @@ La Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecn
 
 Tutela il paesaggio e il patrimonio storico e artistico della Nazione.
 
-Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali.
+Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali.[^1]
 
 ### Art. 10
 
@@ -102,7 +118,7 @@ La condizione giuridica dello straniero è regolata dalla legge in conformità d
 
 Lo straniero, al quale sia impedito nel suo paese l'effettivo esercizio delle libertà democratiche garantite dalla Costituzione italiana, ha diritto d'asilo nel territorio della Repubblica, secondo le condizioni stabilite dalla legge.
 
-Non è ammessa l'estradizione dello straniero per reati politici [cfr. art. [26]].
+Non è ammessa l'estradizione dello straniero per reati politici[^2] [cfr. art. [26]].
 
 ### Art. 11
 
@@ -790,7 +806,7 @@ Il Consiglio nazionale dell'economia e del lavoro è composto, nei modi stabilit
 
 È organo di consulenza delle Camere e del Governo per le materie e secondo le funzioni che gli sono attribuite dalla legge.
 
-Ha l'iniziativa legislativa [cfr. art. 71 c.1] e può contribuire alla elaborazione della legislazione economica e sociale secondo i principi ed entro i limiti stabiliti dalla legge.
+Ha l'iniziativa legislativa [cfr. art. [71] c.1] e può contribuire alla elaborazione della legislazione economica e sociale secondo i principi ed entro i limiti stabiliti dalla legge.
 
 ##### Art. 100
 
@@ -1232,6 +1248,84 @@ I predicati di quelli esistenti prima del 28 ottobre 1922, valgono come parte de
 L'Ordine mauriziano è conservato come ente ospedaliero e funziona nei modi stabiliti dalla legge.
 
 La legge regola la soppressione della Consulta araldica.
+
+# Elenco delle leggi di revisione della Costituzione e di altre leggi costituzionali
+
+## 1948
+
+*  **Legge costituzionale 9 febbraio 1948, n. 1**
+*Norme sui giudizi di legittimità costituzionale e sulle garanzie d’indipendenza della Corte
+costituzionale*
+
+* **Legge costituzionale 26 febbraio 1948, n. 2**
+*Conversione in legge costituzionale dello Statuto della Regione siciliana*
+
+* **Legge costituzionale 26 febbraio 1948, n. 3**
+*Statuto speciale per la Sardegna*
+
+* **Legge costituzionale 26 febbraio 1948, 
+n. 4**
+*Statuto speciale per la Valle d’Aosta*
+
+* **Legge costituzionale 26 febbraio 1948, n. 5**
+*Statuto speciale per il Trentino-Alto Adige*
+
+## 1953
+
+* **Legge costituzionale 11 marzo 1953, n. 1**
+*Norme integrative della Costituzione concernenti la Corte costituzionale*
+
+## 1958
+
+* **Legge costituzionale 18 marzo 1958, n. 1**
+*Scadenza del termine di cui alla XI delle «Disposizioni transitorie e finali» della Costituzione*
+
+## 1961
+
+* **Legge costituzionale 9 marzo 1961, n. 1**
+*Assegnazione di tre senatori ai comuni di Trieste, Duino Aurisina, Monrupino, Muggia, San Dorligo
+della Valle e Sgonico*
+
+## 1963
+
+* **Legge costituzionale 31 gennaio 1963, n. 1**
+*Statuto speciale della Regione Friuli-Venezia Giulia*
+
+* **Legge costituzionale 9 febbraio 1963, n. 2**
+*Modificazione agli artt. 56, 57 e 60 della Costituzione*
+
+* **Legge costituzionale 27 dicembre 1963, n. 3**
+*Modificazione agli artt. 131 e 57 della Costituzione e istituzione della Regione «Molise»*
+
+## 2022
+
+* **Legge costituzionale 11 febbraio 2022, n. 1**
+
+#### Art.1
+
+1. All'articolo 9 della Costituzione è aggiunto, in fine, il seguente comma:
+«Tutela l'ambiente, la biodiversità e gli ecosistemi, anche nell'interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali».
+
+#### Art.2
+
+1. All'articolo 41 della Costituzione sono apportate le seguenti modificazioni:
+a) al secondo comma, dopo la parola: «danno» sono inserite le seguenti: «alla salute, all'ambiente,»;
+b) al terzo comma sono aggiunte, in fine, le seguenti parole: «e ambientali».
+
+#### Art.3
+
+1. La legge dello Stato che disciplina i modi e le forme di tutela degli animali, di cui all'articolo 9 della Costituzione, come modificato dall'articolo 1 della presente legge costituzionale, si applica alle regioni a statuto speciale e alle Province autonome di Trento e di Bolzano nei limiti delle competenze legislative ad esse riconosciute dai rispettivi statuti.
+La presente legge costituzionale, munita del sigillo dello Stato, sarà inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+
+# Note
+
+[^1]: Modifiche apportate dalla legge cost. 11 febbraio 2022, n. 1. All’articolo 9 è aggiunto, in fine, il
+seguente comma: «Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni.
+La legge dello Stato disciplina i modi e le forme di tutela degli animali».
+
+[^2]: M
+
 
 [1]: #art-1
 [2]: #art-2
