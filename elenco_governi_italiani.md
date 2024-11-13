@@ -1,7 +1,22 @@
 # Elenco Governi Italiani
 
-*10 dicembre 1945 - 1º luglio 1946*
-Coalizione 	DC, PSIUP, PCI, PLI, PdA, PDL
+## Luogotenenza generale del Regno
+
+* **Badoglio-I** *(25 luglio 1943 - 21 aprile 1944)*
+* **Badoglio-II** *(22 aprile 1944 - 17 giugno 1944)*
+* **Bonomi-I** *(18 giugno 1944 - 11 dicembre 1944)*
+* **Bonomi-II** *(12 dicembre 1944 - 20 giugno 1945)*
+
+## Consulta Nazionale
+
+* **Parri** *(21 giugno 1945 - 9 dicembre 1945)*
+* **De Gasperi-I** *(10 dicembre 1945 - 12 luglio 1946)*
+
+## Assemblea Costituente
+
+* **De Gasperi-II** *(13 luglio 1946 - 1 febbraio 1947)*
+* **De Gasperi-III** *(2 febbraio 1947 - 30 maggio 1947)*
+* **De Gasperi-IV** *(31 maggio 1947 - 22 maggio 1948)*
 
 ## I Legislatura (8 maggio 1948 - 24 giugno 1953)
 

@@ -140,7 +140,7 @@ Non è ammessa forma alcuna di detenzione, di ispezione o perquisizione personal
 
 In casi eccezionali di necessità ed urgenza, indicati tassativamente dalla legge l'autorità di pubblica sicurezza può adottare provvedimenti provvisori, che devono essere comunicati entro quarantotto ore all'autorità giudiziaria e, se questa non li convalida nelle successive quarantotto ore, si intendono revocati e restano privi di ogni effetto.
 
-E` punita ogni violenza fisica e morale sulle persone comunque sottoposte a restrizioni di libertà [cfr. art. [27] c. 3];.
+È punita ogni violenza fisica e morale sulle persone comunque sottoposte a restrizioni di libertà [cfr. art. [27] c. 3];.
 
 La legge stabilisce i limiti massimi della carcerazione preventiva.
 
@@ -264,7 +264,7 @@ Nei casi di incapacità dei genitori, la legge provvede a che siano assolti i lo
 
 La legge assicura ai figli nati fuori del matrimonio ogni tutela giuridica e sociale, compatibile con i diritti dei membri della famiglia legittima.
 
-La legge detta le norme e i limiti per la ricerca della paternità.E` dovere e diritto dei genitori mantenere, istruire ed educare i figli, anche se nati fuori del matrimonio.
+La legge detta le norme e i limiti per la ricerca della paternità. È dovere e diritto dei genitori mantenere, istruire ed educare i figli, anche se nati fuori del matrimonio.
 
 Nei casi di incapacità dei genitori, la legge provvede a che siano assolti i loro compiti.
 
@@ -356,7 +356,7 @@ L'organizzazione sindacale è libera [cfr. art. [18]].
 
 Ai sindacati non può essere imposto altro obbligo se non la loro registrazione presso uffici locali o centrali, secondo le norme di legge.
 
-E` condizione per la registrazione che gli statuti dei sindacati sanciscano un ordinamento interno a base democratica.
+È condizione per la registrazione che gli statuti dei sindacati sanciscano un ordinamento interno a base democratica.
 
 I sindacati registrati hanno personalità giuridica. Possono, rappresentati unitariamente in proporzione dei loro iscritti, stipulare contratti collettivi di lavoro con efficacia obbligatoria per tutti gli appartenenti alle categorie alle quali il contratto si riferisce.
 
@@ -498,7 +498,7 @@ Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
 
 ##### Art. 59
 
-E` senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica.
+È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica.
 
 Il Presidente della Repubblica può nominare senatori a vita cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario. Il numero complessivo dei senatori in carica nominati dal Presidente della Repubblica non può in alcun caso essere superiore a cinque.
 
@@ -602,7 +602,7 @@ Se le Camere approvano nuovamente la legge, questa deve essere promulgata.
 
 ##### Art. 75
 
-E` indetto referendum popolare [cfr. art. [87] c. 6] per deliberare l'abrogazione, totale o parziale, di una legge o di un atto avente valore di legge [cfr. artt. [76], [77]], quando lo richiedono cinquecentomila elettori o cinque Consigli regionali.
+È indetto referendum popolare [cfr. art. [87] c. 6] per deliberare l'abrogazione, totale o parziale, di una legge o di un atto avente valore di legge [cfr. artt. [76], [77]], quando lo richiedono cinquecentomila elettori o cinque Consigli regionali.
 
 Non è ammesso il referendum per le leggi tributarie e di bilancio [cfr. art. [81]], di amnistia e di indulto [cfr. art. [79]], di autorizzazione a ratificare trattati internazionali [cfr. art. [80]].
 
@@ -942,11 +942,11 @@ Roma è la capitale della Repubblica. La legge dello Stato disciplina il suo ord
 
 #### Art. 116
 
-Il Friuli Venezia Giulia [cfr. X], la Sardegna, la Sicilia, il Trentino-Alto Adige/Südtirol e la Valle d'Aosta/Vallée d'Aoste dispongono di forme e condizioni particolari di autonomia, secondo i rispettivi statuti speciali adottati con legge costituzionale.
+Il Friuli Venezia Giulia [cfr. [X]], la Sardegna, la Sicilia, il Trentino-Alto Adige/Südtirol e la Valle d'Aosta/Vallée d'Aoste dispongono di forme e condizioni particolari di autonomia, secondo i rispettivi statuti speciali adottati con legge costituzionale.
 
 La Regione Trentino-Alto Adige/Südtirol è costituita dalle Province autonome di Trento e di Bolzano.
 
-Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei princìpi di cui all'articolo [119]. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.
+Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo [117] e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei princìpi di cui all'articolo [119]. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.
 
 #### Art. 117
 
@@ -999,7 +999,7 @@ Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma i
 
 I Comuni, le Province, le Città metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa, nel rispetto dell'equilibrio dei relativi bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno risorse autonome. Stabiliscono e applicano tributi ed entrate propri, in armonia con la Costituzione [53 c.2] e secondo i princìpi di coordinamento della finanza pubblica e del sistema tributario. Dispongono di compartecipazioni al gettito di tributi erariali riferibile al loro territorio.
+I Comuni, le Province, le Città metropolitane e le Regioni hanno risorse autonome. Stabiliscono e applicano tributi ed entrate propri, in armonia con la Costituzione [[53] c.2] e secondo i princìpi di coordinamento della finanza pubblica e del sistema tributario. Dispongono di compartecipazioni al gettito di tributi erariali riferibile al loro territorio.
 
 La legge dello Stato istituisce un fondo perequativo, senza vincoli di destinazione, per i territori con minore capacità fiscale per abitante.
 
@@ -1009,7 +1009,7 @@ Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per
 
 La Repubblica riconosce le peculiarità delle Isole e promuove le misure necessarie a rimuovere gli svantaggi derivanti dall'insularità.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i princìpi generali determinati dalla legge dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. E' esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
+I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i princìpi generali determinati dalla legge dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
 
 #### Art. 120
 
