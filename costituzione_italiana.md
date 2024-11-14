@@ -513,7 +513,7 @@ Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hann
 La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per trecentonovantadue e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti.
 
 [^9]:*(all’art. [56])*
-Articolo così risultante dapprima per la sostituzione del testo originario operata dall'art. 1 della [legge cost. 9 febbraio 1963, n. 2]; quindi, per le modifiche apportate ai commi secondo e 50 quarto, dall'[art. 1 della legge cost. 23 gennaio 2001, n. 1]; successivamente, per le modifiche apportate ai commi secondo e quarto dall’art. 1 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: “Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
+Articolo così risultante dapprima per la sostituzione del testo originario operata dall'art. 1 della [legge cost. 9 febbraio 1963, n. 2]; quindi, per le modifiche apportate ai commi secondo e quarto, dall'art. 1 della [legge cost. 23 gennaio 2001, n. 1]; successivamente, per le modifiche apportate ai commi secondo e quarto dall’art. 1 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: *“Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”*. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
 Queste le formulazioni susseguitesi:\
 ART. 56, nel testo originario:\
 *«La Camera dei deputati è eletta a suffragio universale e diretto, in ragione di un deputato per ottantamila abitanti o per frazione superiore a quarantamila.
@@ -540,7 +540,7 @@ Il numero dei senatori elettivi è di duecento, quattro dei quali eletti nella c
 La ripartizione dei seggi tra le Regioni o le Provincie autonome, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla loro popolazione, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
 [^10]:*(all’art. [57])*
-Articolo così risultante dapprima con la sostituzione del testo originario operata dall'art. 2 della [legge cost. 9 febbraio 1963, n. 2]; quindi, dalla modifica al comma terzo introdotta con la [legge cost. 27 dicembre 1963, n. 3]; quindi, per le modifiche apportate ai commi primo, secondo e quarto dall'art. 2 della [legge cost. 23 gennaio 2001, n. 1]; successivamente per le modifiche apportate ai commi secondo, terzo e quarto dall’art. 2 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: “Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
+Articolo così risultante dapprima con la sostituzione del testo originario operata dall'art. 2 della [legge cost. 9 febbraio 1963, n. 2]; quindi, dalla modifica al comma terzo introdotta con la [legge cost. 27 dicembre 1963, n. 3]; quindi, per le modifiche apportate ai commi primo, secondo e quarto dall'art. 2 della [legge cost. 23 gennaio 2001, n. 1]; successivamente per le modifiche apportate ai commi secondo, terzo e quarto dall’art. 2 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: *“Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”*. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
 Queste le formulazioni susseguitesi:\
 ART. 57, nel testo originario:\
 *«Il Senato della Repubblica è eletto a base regionale.
@@ -1368,6 +1368,8 @@ della Valle e Sgonico*
 #### Legge costituzionale 9 febbraio 1963, n. 2
 *Modificazione agli artt. 56, 57 e 60 della Costituzione*
 
+[legge cost. 9 febbraio 1963, n. 2]:#legge-costituzionale-9-febbraio-1963-n-2
+
 #### Legge costituzionale 27 dicembre 1963, n. 3
 *Modificazione agli artt. 131 e 57 della Costituzione e istituzione della Regione «Molise»*
 
@@ -1378,6 +1380,12 @@ della Valle e Sgonico*
 
 [legge cost. 21 giugno 1967, n. 1]:#legge-costituzionale-21-giugno-1967-n-1
 
+### 2001
+
+#### Legge costituzionale 23 gennaio 2001, n. 1
+
+[legge cost. 23 gennaio 2001, n. 1]:#legge-costituzionale-23-gennaio-2001-n-1
+
 ### 2007
 
 #### Legge costituzionale 2 ottobre 2007, n. 1
@@ -1385,6 +1393,12 @@ della Valle e Sgonico*
 *Modifica all'articolo 27 della Costituzione, concernente l'abolizione della pena di morte.*
 
 [legge cost. 2 ottobre 2007, n. 1]:#legge-costituzionale-2-ottobre-2007-n-1
+
+### 2020
+
+#### Legge costituzionale 19 ottobre 2020, n. 1
+
+[legge cost. 19 ottobre 2020, n. 1]:#legge-costituzionale-19-ottobre-2020-n-1
 
 ### 2022
 
