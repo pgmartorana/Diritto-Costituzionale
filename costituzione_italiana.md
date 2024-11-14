@@ -110,6 +110,11 @@ Tutela il paesaggio e il patrimonio storico e artistico della Nazione.
 
 Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali.[^1]
 
+[^1]: *(all’art. 9)*
+Modifiche apportate dalla [legge cost. 11 febbraio 2022, n. 1]. All’articolo 9 è aggiunto, in fine, il
+seguente comma: «Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni.
+La legge dello Stato disciplina i modi e le forme di tutela degli animali».
+
 ### Art. 10
 
 L'ordinamento giuridico italiano si conforma alle norme del diritto internazionale generalmente riconosciute.
@@ -118,7 +123,11 @@ La condizione giuridica dello straniero è regolata dalla legge in conformità d
 
 Lo straniero, al quale sia impedito nel suo paese l'effettivo esercizio delle libertà democratiche garantite dalla Costituzione italiana, ha diritto d'asilo nel territorio della Repubblica, secondo le condizioni stabilite dalla legge.
 
-Non è ammessa l'estradizione dello straniero per reati politici[^2] [cfr. art. [26]].
+Non è ammessa l'estradizione dello straniero per reati politici[cfr. art. [26]].[^2] 
+
+[^2]: *(all’art. 10, quarto comma)*
+A norma dell’articolo unico della [legge cost. 21 giugno 1967, n. 1], «l’ultimo comma dell’art. 10
+della Costituzione non si applica ai delitti di genocidio».
 
 ### Art. 11
 
@@ -230,7 +239,11 @@ Nessuno può essere sottoposto a misure di sicurezza se non nei casi previsti da
 
 L'estradizione del cittadino può essere consentita soltanto ove sia espressamente prevista dalle convenzioni internazionali.
 
-Non può in alcun caso essere ammessa per reati politici [cfr. art. [10] c.4]
+Non può in alcun caso essere ammessa per reati politici [cfr. art. [10] c.4].[^3]
+
+[^3]:*(all’art. 26, secondo comma)*
+A norma dell’articolo unico della [legge cost. 21 giugno 1967, n. 1],
+«l’ultimo comma dell’art. 26 della Costituzione non si applica ai delitti di genocidio»
 
 #### Art. 27
 
@@ -240,7 +253,11 @@ L'imputato non è considerato colpevole sino alla condanna definitiva.
 
 Le pene non possono consistere in trattamenti contrari al senso di umanità e devono tendere alla rieducazione del condannato [cfr. art. [13] c. 4].
 
-Non è ammessa la pena di morte.
+Non è ammessa la pena di morte.[^4]
+
+[^4]:*(all’art. 27, quarto comma)*
+Comma così modificato dall’art. 1 della [legge cost. 2 ottobre 2007, n. 1]. Il testo originale del comma quarto recitava:
+«Non è ammessa la pena di morte, se non nei casi previsti dalle leggi militari di guerra».
 
 #### Art. 28
 
@@ -298,7 +315,13 @@ La legge, nel fissare i diritti e gli obblighi delle scuole non statali che chie
 
 Le istituzioni di alta cultura, università ed accademie, hanno il diritto di darsi ordinamenti autonomi nei limiti stabiliti dalle leggi dello Stato.
 
-La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell’attività sportiva in tutte le sue forme.
+La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell’attività sportiva in tutte le sue forme.[^5]
+
+[^5]:*(all’art. 33)*
+[legge cost. 26 settembre 2023, n. 1]. All’articolo 33 è aggiunto, in fine, il seguente
+comma:
+«La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell’attività
+sportiva in tutte le sue forme».
 
 #### Art. 34
 
@@ -1249,82 +1272,95 @@ L'Ordine mauriziano è conservato come ente ospedaliero e funziona nei modi stab
 
 La legge regola la soppressione della Consulta araldica.
 
-# Elenco delle leggi di revisione della Costituzione e di altre leggi costituzionali
+----
 
-## 1948
+## Elenco delle leggi di revisione della Costituzione e di altre leggi costituzionali
 
-*  **Legge costituzionale 9 febbraio 1948, n. 1**
+### 1948
+
+#### Legge costituzionale 9 febbraio 1948, n. 1
+
 *Norme sui giudizi di legittimità costituzionale e sulle garanzie d’indipendenza della Corte
 costituzionale*
 
-* **Legge costituzionale 26 febbraio 1948, n. 2**
+#### Legge costituzionale 26 febbraio 1948, n. 2
+
 *Conversione in legge costituzionale dello Statuto della Regione siciliana*
 
-* **Legge costituzionale 26 febbraio 1948, n. 3**
+#### Legge costituzionale 26 febbraio 1948, n. 3
+
 *Statuto speciale per la Sardegna*
 
-* **Legge costituzionale 26 febbraio 1948, 
-n. 4**
+#### Legge costituzionale 26 febbraio 1948, n. 4
+
 *Statuto speciale per la Valle d’Aosta*
 
-* **Legge costituzionale 26 febbraio 1948, n. 5**
+#### Legge costituzionale 26 febbraio 1948, n. 5
+
 *Statuto speciale per il Trentino-Alto Adige*
 
-## 1953
+### 1953
 
-* **Legge costituzionale 11 marzo 1953, n. 1**
+#### Legge costituzionale 11 marzo 1953, n. 1
+
 *Norme integrative della Costituzione concernenti la Corte costituzionale*
 
-## 1958
+### 1958
 
-* **Legge costituzionale 18 marzo 1958, n. 1**
+#### Legge costituzionale 18 marzo 1958, n. 1
+
 *Scadenza del termine di cui alla XI delle «Disposizioni transitorie e finali» della Costituzione*
 
-## 1961
+### 1961
 
-* **Legge costituzionale 9 marzo 1961, n. 1**
+#### Legge costituzionale 9 marzo 1961, n. 1
+
 *Assegnazione di tre senatori ai comuni di Trieste, Duino Aurisina, Monrupino, Muggia, San Dorligo
 della Valle e Sgonico*
 
-## 1963
+### 1963
 
-* **Legge costituzionale 31 gennaio 1963, n. 1**
+#### Legge costituzionale 31 gennaio 1963, n. 1
 *Statuto speciale della Regione Friuli-Venezia Giulia*
 
-* **Legge costituzionale 9 febbraio 1963, n. 2**
+#### Legge costituzionale 9 febbraio 1963, n. 2
 *Modificazione agli artt. 56, 57 e 60 della Costituzione*
 
-* **Legge costituzionale 27 dicembre 1963, n. 3**
+#### Legge costituzionale 27 dicembre 1963, n. 3
 *Modificazione agli artt. 131 e 57 della Costituzione e istituzione della Regione «Molise»*
 
-## 2022
+### 1967
 
-* **Legge costituzionale 11 febbraio 2022, n. 1**
+#### Legge costituzionale 21 giugno 1967, n. 1
+*Estradizione per i delitti di genocidio*
 
-#### Art.1
+[legge cost. 21 giugno 1967, n. 1]:#legge-costituzionale-21-giugno-1967-n-1
 
-1. All'articolo 9 della Costituzione è aggiunto, in fine, il seguente comma:
-«Tutela l'ambiente, la biodiversità e gli ecosistemi, anche nell'interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali».
+### 2007
 
-#### Art.2
+#### Legge costituzionale 2 ottobre 2007, n. 1
 
-1. All'articolo 41 della Costituzione sono apportate le seguenti modificazioni:
-a) al secondo comma, dopo la parola: «danno» sono inserite le seguenti: «alla salute, all'ambiente,»;
-b) al terzo comma sono aggiunte, in fine, le seguenti parole: «e ambientali».
+*Modifica all'articolo 27 della Costituzione, concernente l'abolizione della pena di morte.*
 
-#### Art.3
+[legge cost. 2 ottobre 2007, n. 1]:#legge-costituzionale-2-ottobre-2007-n-1
 
-1. La legge dello Stato che disciplina i modi e le forme di tutela degli animali, di cui all'articolo 9 della Costituzione, come modificato dall'articolo 1 della presente legge costituzionale, si applica alle regioni a statuto speciale e alle Province autonome di Trento e di Bolzano nei limiti delle competenze legislative ad esse riconosciute dai rispettivi statuti.
-La presente legge costituzionale, munita del sigillo dello Stato, sarà inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+### 2022
 
+#### Legge costituzionale 11 febbraio 2022, n. 1
+
+*Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente.*
+
+[legge cost. 11 febbraio 2022, n.  1]:#legge-costituzionale-11-febbraio-2022-n-1
+
+### 2023
+
+#### Legge Costituzionale 26 settembre 2023, n. 1
+
+*Modifica all'articolo 33 della Costituzione, in materia di attivita' sportiva.*
+
+[legge cost. 26 settembre 2023, n. 1]:#legge-costituzionale-26-settembre-2023-n-1
 
 # Note
-
-[^1]: Modifiche apportate dalla legge cost. 11 febbraio 2022, n. 1. All’articolo 9 è aggiunto, in fine, il
-seguente comma: «Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni.
-La legge dello Stato disciplina i modi e le forme di tutela degli animali».
-
-[^2]: M
 
 
 [1]: #art-1
