@@ -110,7 +110,7 @@ Tutela il paesaggio e il patrimonio storico e artistico della Nazione.
 
 Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali.[^1]
 
-[^1]: *(all’art. 9)*
+[^1]: *(all’art. [9])*
 Modifiche apportate dalla [legge cost. 11 febbraio 2022, n. 1]. All’articolo 9 è aggiunto, in fine, il
 seguente comma: «Tutela l’ambiente, la biodiversità e gli ecosistemi, anche nell’interesse delle future generazioni.
 La legge dello Stato disciplina i modi e le forme di tutela degli animali».
@@ -125,7 +125,7 @@ Lo straniero, al quale sia impedito nel suo paese l'effettivo esercizio delle li
 
 Non è ammessa l'estradizione dello straniero per reati politici[cfr. art. [26]].[^2] 
 
-[^2]: *(all’art. 10, quarto comma)*
+[^2]: *(all’art. [10], quarto comma)*
 A norma dell’articolo unico della [legge cost. 21 giugno 1967, n. 1], «l’ultimo comma dell’art. 10
 della Costituzione non si applica ai delitti di genocidio».
 
@@ -241,7 +241,7 @@ L'estradizione del cittadino può essere consentita soltanto ove sia espressamen
 
 Non può in alcun caso essere ammessa per reati politici [cfr. art. [10] c.4].[^3]
 
-[^3]:*(all’art. 26, secondo comma)*
+[^3]:*(all’art. [26], secondo comma)*
 A norma dell’articolo unico della [legge cost. 21 giugno 1967, n. 1],
 «l’ultimo comma dell’art. 26 della Costituzione non si applica ai delitti di genocidio»
 
@@ -255,7 +255,7 @@ Le pene non possono consistere in trattamenti contrari al senso di umanità e de
 
 Non è ammessa la pena di morte.[^4]
 
-[^4]:*(all’art. 27, quarto comma)*
+[^4]:*(all’art. [27], quarto comma)*
 Comma così modificato dall’art. 1 della [legge cost. 2 ottobre 2007, n. 1]. Il testo originale del comma quarto recitava:
 «Non è ammessa la pena di morte, se non nei casi previsti dalle leggi militari di guerra».
 
@@ -317,7 +317,7 @@ Le istituzioni di alta cultura, università ed accademie, hanno il diritto di da
 
 La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell’attività sportiva in tutte le sue forme.[^5]
 
-[^5]:*(all’art. 33)*
+[^5]:*(all’art. [33])*
 [legge cost. 26 settembre 2023, n. 1]. All’articolo 33 è aggiunto, in fine, il seguente
 comma:
 «La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell’attività
@@ -393,7 +393,12 @@ L'iniziativa economica privata è libera.
 
 Non può svolgersi in contrasto con l'utilità sociale o in modo da recare danno alla salute, all’ambiente, alla sicurezza, alla libertà, alla dignità umana.
 
-La legge determina i programmi e i controlli opportuni perché l'attività economica pubblica e privata possa essere indirizzata e coordinata a fini sociali e ambientali [cfr. art. [43]].
+La legge determina i programmi e i controlli opportuni perché l'attività economica pubblica e privata possa essere indirizzata e coordinata a fini sociali e ambientali [cfr. art. [43]].[^6]
+
+[^6]:*(all’art. [41])*
+Modifiche apportate dalla [legge cost. 11 febbraio 2022, n. 1]. All’art. 41 sono apportate le
+seguenti modificazioni: a) al secondo comma, dopo la parola: «danno» sono inserite le seguenti:
+«alla salute, all’ambiente,»; b) al terzo comma sono aggiunte, in fine, le seguenti parole: «e ambientali».
 
 #### Art. 42
 
@@ -439,7 +444,10 @@ Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore
 
 Il voto è personale ed eguale, libero e segreto. Il suo esercizio è dovere civico.
 
-La legge stabilisce requisiti e modalità per l'esercizio del diritto di voto dei cittadini residenti all'estero e ne assicura l'effettività. A tale fine è istituita una circoscrizione Estero per l'elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge.
+La legge stabilisce requisiti e modalità per l'esercizio del diritto di voto dei cittadini residenti all'estero e ne assicura l'effettività. A tale fine è istituita una circoscrizione Estero per l'elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge.[^7]
+
+[^7]:*(all’art. [48], terzo comma)*
+Comma inserito dall'art. 1 della [legge cost. 17 gennaio 2000, n. 1].
 
 Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile o nei casi di indegnità morale indicati dalla legge [cfr. artt. [XII] c. 2 , [XIII] c. 1].
 
@@ -453,7 +461,10 @@ Tutti i cittadini possono rivolgere petizioni alle Camere per chiedere provvedim
 
 #### Art. 51
 
-Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge [cfr. artt. [56] c. 3, [58] c. 2, [84] c. 1, [97] c. 3, [104] c. 4, [106], [135] cc. 1, 2, 6, [XIII] c. 1]. A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunità tra donne e uomini.
+Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge [cfr. artt. [56] c. 3, [58] c. 2, [84] c. 1, [97] c. 3, [104] c. 4, [106], [135] cc. 1, 2, 6, [XIII] c. 1]. A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunità tra donne e uomini.[^8]
+
+[^8]:*(all’art. [51], primo comma, secondo periodo)*
+Il periodo è stato aggiunto dall'art. 1 della [legge cost. 30 maggio 2003, n. 1].
 
 La legge può, per l'ammissione ai pubblici uffici e alle cariche elettive, parificare ai cittadini gli italiani non appartenenti alla Repubblica.
 
@@ -491,7 +502,7 @@ Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica
 
 Il Parlamento si riunisce in seduta comune [cfr. artt. [63] c. 2, [64] cc. 2, 3] dei membri delle due Camere nei soli casi stabiliti dalla Costituzione [cfr. artt. [83], [90] c. 2, [91], [104] c. 4, [135] cc. 1, 7].
 
-##### Art. 56
+##### Art. 56 [^9]
 
 La Camera dei deputati è eletta a suffragio universale e diretto.
 
@@ -501,9 +512,28 @@ Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hann
 
 La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per trecentonovantadue e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti.
 
-* L’art. 4 della legge costituzionale n. 1 del 19 ottobre 2020 ha stabilito che le modifiche all'articolo 56 della Costituzione «si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore».
+[^9]:*(all’art. [56])*
+Articolo così risultante dapprima per la sostituzione del testo originario operata dall'art. 1 della [legge cost. 9 febbraio 1963, n. 2]; quindi, per le modifiche apportate ai commi secondo e 50 quarto, dall'[art. 1 della legge cost. 23 gennaio 2001, n. 1]; successivamente, per le modifiche apportate ai commi secondo e quarto dall’art. 1 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: “Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
+Queste le formulazioni susseguitesi:
+ART. 56, nel testo originario:
+*«La Camera dei deputati è eletta a suffragio universale e diretto, in ragione di un deputato per ottantamila abitanti o per frazione superiore a quarantamila.
+Sonoeleggibili a deputati tutti gli elettori che nelgiorno delle elezioni hanno compiuto i venticinque anni
+di età»*.
+--
+ART. 56, con le modifiche apportate dalla legge cost. 9 febbraio 1963, n. 2:
+*«La Camera dei deputati è eletta a suffragio universale e diretto.
+Il numero dei deputati è di seicentotrenta dodici dei quali eletti nella circoscrizione Estero.
+Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque
+anni di età.
+La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall’ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti»*.
+--
+ART. 56, con le modifiche apportate dalla legge cost. 23 gennaio 2001, n. 1:
+*«La Camera dei deputati è eletta a suffragio universale e diretto.
+Il numero dei deputati è di seicentotrenta dodici dei quali eletti nella circoscrizione Estero.
+Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età.
+La ripartizione dei seggi tra le circoscrizioni, fattosalvoil numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentodiciotto e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti»*.
 
-##### Art. 57
+##### Art. 57[^10]
 
 Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero.
 
@@ -511,7 +541,26 @@ Il numero dei senatori elettivi è di duecento, quattro dei quali eletti nella c
 
 La ripartizione dei seggi tra le Regioni o le Provincie autonome, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla loro popolazione, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
-* L’art. 4 della legge costituzionale n. 1 del 19 ottobre 2020 ha stabilito che le modifiche all'articolo 57 della Costituzione «si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore».
+[^10]:*(all’art. [57])*
+Articolo così risultante dapprima con la sostituzione del testo originario operata dall'art. 2 della [legge cost. 9 febbraio 1963, n. 2]; quindi, dalla modifica al comma terzo introdotta con la [legge cost. 27 dicembre 1963, n. 3]; quindi, per le modifiche apportate ai commi primo, secondo e quarto dall'art. 2 della [legge cost. 23 gennaio 2001, n. 1]; successivamente per le modifiche apportate ai commi secondo, terzo e quarto dall’art. 2 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: “Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
+Queste le formulazioni susseguitesi:
+ART. 57, nel testo originario:
+*«Il Senato della Repubblica è eletto a base regionale.
+A ciascuna Regione è attribuito un senatore per duecentomila abitantio per frazione superiore a centomila.
+Nessuna Regione può avere un numero di senatori inferiore a sei. La Valle d’Aosta ha un solosenatore»*.
+--
+ART. 57, con le modifiche apportate dalla legge cost. n. 2 del 1963:
+*«Il Senato della Repubblica è eletto a base regionale.
+Il numero dei senatori elettivi è di trecentoquindici.
+Nessuna Regione può avere un numero di senatori inferiore a sette. La Valle d’Aosta ha un solo senatore.
+La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente comma, si
+effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimocensimentogenerale, sulla
+base dei quozienti interi e dei più alti resti»*.
+--
+ART. 57, comma terzo, come modificato dalla legge n. 3 del 1963:
+*«Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la
+Valle d’Aosta uno»*.
+
 
 ##### Art. 58
 
