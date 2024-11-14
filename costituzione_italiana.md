@@ -1,6 +1,6 @@
 # Costituzione Della Repubblica
 
-testo aggiornato alla legge costituzionale 18 Ottobre 2021, n.1
+testo aggiornato alla Legge Costituzionale 26 settembre 2023, n. 1
 
 ## Indice
 
@@ -1322,6 +1322,15 @@ Alla Regione del Friuli-Venezia Giulia, di cui all' articolo [116], si applicano
 
 Fino a cinque anni dall'entrata in vigore della Costituzione si possono, con leggi costituzionali, formare altre Regioni, a modificazione dell'elenco di cui all'articolo [131], anche senza il concorso delle condizioni richieste dal primo comma dell'articolo [132], fermo rimanendo tuttavia l'obbligo di sentire le popolazioni interessate.
 
+###  XII
+
+È vietata la riorganizzazione, sotto qualsiasi forma, del disciolto partito fascista.
+In deroga all’articolo 48, sono stabilite con legge, per non oltre un quinquennio dall’entrata in vigore della Costituzione, limitazioni temporanee al diritto di voto e alla eleggibilità per i capi responsabili del regime fascista.
+
+### XIII
+
+I beni, esistenti nel territorio nazionale, degli ex re di Casa Savoia, delle loro consorti e dei loro discendenti maschi, sono avocati allo Stato. I trasferimenti e le costituzioni di diritti reali sui beni stessi, che siano avvenuti dopo il 2 giugno 1946, sono nulli.
+
 ### XIV
 
 I titoli nobiliari non sono riconosciuti.
@@ -1331,6 +1340,37 @@ I predicati di quelli esistenti prima del 28 ottobre 1922, valgono come parte de
 L'Ordine mauriziano è conservato come ente ospedaliero e funziona nei modi stabiliti dalla legge.
 
 La legge regola la soppressione della Consulta araldica.
+
+### XV
+
+Con l’entrata in vigore della Costituzione si ha per convertito in legge il
+decreto legislativo luogotenenziale 25 giugno 1944, n. 151, sull’ordinamento
+provvisorio dello Stato.
+
+### XVI
+
+Entro un anno dall’entrata in vigore della Costituzione si procede alla revisione e al coordinamento con essa delle precedenti leggi costituzionali che
+non siano state finora esplicitamente o implicitamente abrogate.
+
+### XVII
+
+L’Assemblea Costituente sarà convocata dal suo Presidente per deliberare,
+entro il 31 gennaio 1948, sulla legge per la elezione del Senato della
+Repubblica, sugli statuti regionali speciali e sulla legge per la stampa.
+Fino al giorno delle elezioni delle nuove Camere, l’Assemblea Costituente può essere convocata, quando vi sia necessità di deliberare nelle
+materie attribuite alla sua competenza dagli articoli 2, primo e secondo
+comma, e 3, comma primo e secondo, del decreto legislativo 16 marzo
+1946, n. 98.
+In tale periodo le Commissioni permanenti restano in funzione. Quelle legislative rinviano al Governo i disegni di legge, ad esse trasmessi, con eventuali osservazioni e proposte di emendamenti.
+I deputati possono presentare al Governo interrogazioni con richiesta di risposta scritta.
+L’Assemblea Costituente, agli effetti di cui al secondo comma del presente
+articolo, è convocata dal suo Presidente su richiesta motivata del Governo
+o di almeno duecento deputati.
+
+### XVIII
+
+La presente Costituzione è promulgata dal Capo provvisorio dello Stato entro cinque giorni dalla sua approvazione da parte dell’Assemblea Costituente, ed entra in vigore il 1° gennaio 1948.
+Il testo della Costituzione è depositato nella sala comunale di ciascun Comune della Repubblica per rimanervi esposto, durante tutto l’anno 1948, affinché ogni cittadino possa prenderne cognizione.
 
 ----
 
