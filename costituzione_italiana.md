@@ -555,29 +555,41 @@ ART. 57, comma terzo, come modificato dalla legge n. 3 del 1963:\
 *«Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la
 Valle d’Aosta uno»*.
 
-##### Art. 58
+##### Art. 58 [^11]
 
-I senatori sono eletti a suffragio universale e diretto.[^11]
+I senatori sono eletti a suffragio universale e diretto.
 
 Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
 
-[^11]:*(all’art. 58, primo comma)*
+[^11]:*(all’art. [58], primo comma)*
 Comma così sostituito dalla [legge cost. 18 ottobre 2021, n. 1].
 Il testo originario del comma disponeva:\
 *“I senatori sono eletti a suffragio universale e diretto dagli elettori
 che hanno superato il venticinquesimo anno di età.”*
 
-##### Art. 59
+##### Art. 59 [^12]
 
 È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica.
 
 Il Presidente della Repubblica può nominare senatori a vita cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario. Il numero complessivo dei senatori in carica nominati dal Presidente della Repubblica non può in alcun caso essere superiore a cinque.
 
-##### Art. 60
+[^12]:*(all’art. [59], secondo comma)*
+Comma così sostituito dall'art. 3 della [legge cost. 19 ottobre 2020, n. 1].\
+Il testo originario del comma disponeva:\
+*“Il Presidente della Repubblica può nominare senatori a vita cinque cittadini che hanno illustrato la Patria per altissi mimeriti nel campo sociale, scientifico, artistico e letterario.”*\
+La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il
+5 novembre 2020.
+
+##### Art. 60 [^13]
 
 La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni [cfr. art. [88]].
 
 La durata di ciascuna Camera non può essere prorogata se non per legge e soltanto in caso di guerra.
+
+[^13]:*(all’art. [60], primo comma)*
+Comma così sostituito dall'art. 3 della [legge cost. 9 febbraio 1963, n. 2]. Il testo originario
+del comma disponeva:\
+*«La Camera dei deputati è eletta per cinque anni, il Senato della Repubblica per sei»*.
 
 ##### Art. 61
 
@@ -1488,9 +1500,9 @@ della Valle e Sgonico*
 [55]: #art-55
 [56]: #art-56-9
 [57]: #art-57-10
-[58]: #art-58
-[59]: #art-59
-[60]: #art-60
+[58]: #art-58-11
+[59]: #art-59-12
+[60]: #art-60-13
 [61]: #art-61
 [62]: #art-62
 [63]: #art-63
