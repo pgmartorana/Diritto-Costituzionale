@@ -557,9 +557,15 @@ Valle d’Aosta uno»*.
 
 ##### Art. 58
 
-I senatori sono eletti a suffragio universale e diretto.
+I senatori sono eletti a suffragio universale e diretto.[^11]
 
 Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
+
+[^11]:*(all’art. 58, primo comma)*
+Comma così sostituito dalla [legge cost. 18 ottobre 2021, n. 1].
+Il testo originario del comma disponeva:\
+*“I senatori sono eletti a suffragio universale e diretto dagli elettori
+che hanno superato il venticinquesimo anno di età.”*
 
 ##### Art. 59
 
@@ -1399,6 +1405,12 @@ della Valle e Sgonico*
 #### Legge costituzionale 19 ottobre 2020, n. 1
 
 [legge cost. 19 ottobre 2020, n. 1]:#legge-costituzionale-19-ottobre-2020-n-1
+
+### 2021
+
+#### Legge costituzionale 18 ottobre 2021, n. 1
+
+[legge cost. 18 ottobre 2021, n. 1]:#legge-costituzionale-18-ottobre-2021-n-1
 
 ### 2022
 
