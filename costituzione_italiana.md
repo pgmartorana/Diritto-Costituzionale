@@ -515,23 +515,23 @@ La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi
 [^9]:*(all’art. [56])*
 Articolo così risultante dapprima per la sostituzione del testo originario operata dall'art. 1 della [legge cost. 9 febbraio 1963, n. 2]; quindi, per le modifiche apportate ai commi secondo e 50 quarto, dall'[art. 1 della legge cost. 23 gennaio 2001, n. 1]; successivamente, per le modifiche apportate ai commi secondo e quarto dall’art. 1 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: “Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
 Queste le formulazioni susseguitesi:\
-ART. 56, nel testo originario:
+ART. 56, nel testo originario:\
 *«La Camera dei deputati è eletta a suffragio universale e diretto, in ragione di un deputato per ottantamila abitanti o per frazione superiore a quarantamila.
 Sonoeleggibili a deputati tutti gli elettori che nelgiorno delle elezioni hanno compiuto i venticinque anni
 di età»*.\
-ART. 56, con le modifiche apportate dalla legge cost. 9 febbraio 1963, n. 2:
+ART. 56, con le modifiche apportate dalla legge cost. 9 febbraio 1963, n. 2:\
 *«La Camera dei deputati è eletta a suffragio universale e diretto.
 Il numero dei deputati è di seicentotrenta dodici dei quali eletti nella circoscrizione Estero.
 Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque
 anni di età.
 La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall’ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti»*.\
-ART. 56, con le modifiche apportate dalla legge cost. 23 gennaio 2001, n. 1:
+ART. 56, con le modifiche apportate dalla legge cost. 23 gennaio 2001, n. 1:\
 *«La Camera dei deputati è eletta a suffragio universale e diretto.
 Il numero dei deputati è di seicentotrenta dodici dei quali eletti nella circoscrizione Estero.
 Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età.
 La ripartizione dei seggi tra le circoscrizioni, fattosalvoil numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentodiciotto e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti»*.
 
-##### Art. 57[^10]
+##### Art. 57 [^10]
 
 Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero.
 
@@ -541,19 +541,17 @@ La ripartizione dei seggi tra le Regioni o le Provincie autonome, previa applica
 
 [^10]:*(all’art. [57])*
 Articolo così risultante dapprima con la sostituzione del testo originario operata dall'art. 2 della [legge cost. 9 febbraio 1963, n. 2]; quindi, dalla modifica al comma terzo introdotta con la [legge cost. 27 dicembre 1963, n. 3]; quindi, per le modifiche apportate ai commi primo, secondo e quarto dall'art. 2 della [legge cost. 23 gennaio 2001, n. 1]; successivamente per le modifiche apportate ai commi secondo, terzo e quarto dall’art. 2 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: “Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
-Queste le formulazioni susseguitesi:
-ART. 57, nel testo originario:
+Queste le formulazioni susseguitesi:\
+ART. 57, nel testo originario:\
 *«Il Senato della Repubblica è eletto a base regionale.
 A ciascuna Regione è attribuito un senatore per duecentomila abitantio per frazione superiore a centomila.
 Nessuna Regione può avere un numero di senatori inferiore a sei. La Valle d’Aosta ha un solosenatore»*.\
-ART. 57, con le modifiche apportate dalla legge cost. n. 2 del 1963:
+ART. 57, con le modifiche apportate dalla legge cost. n. 2 del 1963:\
 *«Il Senato della Repubblica è eletto a base regionale.
 Il numero dei senatori elettivi è di trecentoquindici.
 Nessuna Regione può avere un numero di senatori inferiore a sette. La Valle d’Aosta ha un solo senatore.
-La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente comma, si
-effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimocensimentogenerale, sulla
-base dei quozienti interi e dei più alti resti»*.\
-ART. 57, comma terzo, come modificato dalla legge n. 3 del 1963:
+La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti»*.\
+ART. 57, comma terzo, come modificato dalla legge n. 3 del 1963:\
 *«Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la
 Valle d’Aosta uno»*.
 
