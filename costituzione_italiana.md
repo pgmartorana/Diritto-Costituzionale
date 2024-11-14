@@ -514,18 +514,18 @@ La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi
 
 [^9]:*(all’art. [56])*
 Articolo così risultante dapprima per la sostituzione del testo originario operata dall'art. 1 della [legge cost. 9 febbraio 1963, n. 2]; quindi, per le modifiche apportate ai commi secondo e 50 quarto, dall'[art. 1 della legge cost. 23 gennaio 2001, n. 1]; successivamente, per le modifiche apportate ai commi secondo e quarto dall’art. 1 della [legge cost. 19 ottobre 2020, n. 1]. Si vedano inoltre le disposizioni transitorie di cui all’art. 4 di quest’ultima legge: “Le disposizioni di cui agli articoli 56 e 57 della Costituzione, come modificati dagli articoli 1 e 2 della presente legge costituzionale, si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della presente legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.”. La citata legge cost. n. 1 del 2020, pubblicata il 21 ottobre 2020, è entrata in vigore il 5 novembre 2020.
-Queste le formulazioni susseguitesi:
+Queste le formulazioni susseguitesi:\
 ART. 56, nel testo originario:
 *«La Camera dei deputati è eletta a suffragio universale e diretto, in ragione di un deputato per ottantamila abitanti o per frazione superiore a quarantamila.
 Sonoeleggibili a deputati tutti gli elettori che nelgiorno delle elezioni hanno compiuto i venticinque anni
-di età»*.
+di età»*.\
 --
 ART. 56, con le modifiche apportate dalla legge cost. 9 febbraio 1963, n. 2:
 *«La Camera dei deputati è eletta a suffragio universale e diretto.
 Il numero dei deputati è di seicentotrenta dodici dei quali eletti nella circoscrizione Estero.
 Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque
 anni di età.
-La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall’ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti»*.
+La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall’ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti»*.\
 --
 ART. 56, con le modifiche apportate dalla legge cost. 23 gennaio 2001, n. 1:
 *«La Camera dei deputati è eletta a suffragio universale e diretto.
