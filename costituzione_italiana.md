@@ -519,14 +519,12 @@ ART. 56, nel testo originario:
 *«La Camera dei deputati è eletta a suffragio universale e diretto, in ragione di un deputato per ottantamila abitanti o per frazione superiore a quarantamila.
 Sonoeleggibili a deputati tutti gli elettori che nelgiorno delle elezioni hanno compiuto i venticinque anni
 di età»*.\
---
 ART. 56, con le modifiche apportate dalla legge cost. 9 febbraio 1963, n. 2:
 *«La Camera dei deputati è eletta a suffragio universale e diretto.
 Il numero dei deputati è di seicentotrenta dodici dei quali eletti nella circoscrizione Estero.
 Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque
 anni di età.
 La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall’ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti»*.\
---
 ART. 56, con le modifiche apportate dalla legge cost. 23 gennaio 2001, n. 1:
 *«La Camera dei deputati è eletta a suffragio universale e diretto.
 Il numero dei deputati è di seicentotrenta dodici dei quali eletti nella circoscrizione Estero.
@@ -547,20 +545,17 @@ Queste le formulazioni susseguitesi:
 ART. 57, nel testo originario:
 *«Il Senato della Repubblica è eletto a base regionale.
 A ciascuna Regione è attribuito un senatore per duecentomila abitantio per frazione superiore a centomila.
-Nessuna Regione può avere un numero di senatori inferiore a sei. La Valle d’Aosta ha un solosenatore»*.
---
+Nessuna Regione può avere un numero di senatori inferiore a sei. La Valle d’Aosta ha un solosenatore»*.\
 ART. 57, con le modifiche apportate dalla legge cost. n. 2 del 1963:
 *«Il Senato della Repubblica è eletto a base regionale.
 Il numero dei senatori elettivi è di trecentoquindici.
 Nessuna Regione può avere un numero di senatori inferiore a sette. La Valle d’Aosta ha un solo senatore.
 La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente comma, si
 effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimocensimentogenerale, sulla
-base dei quozienti interi e dei più alti resti»*.
---
+base dei quozienti interi e dei più alti resti»*.\
 ART. 57, comma terzo, come modificato dalla legge n. 3 del 1963:
 *«Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la
 Valle d’Aosta uno»*.
-
 
 ##### Art. 58
 
