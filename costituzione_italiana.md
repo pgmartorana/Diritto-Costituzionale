@@ -1101,13 +1101,21 @@ era il seguente:\
 ART. 115\
 *«Le Regioni sono costituite in enti autonomi con propri poteri e funzioni secondo i principî fissati nella Costituzione»*.
 
-#### Art. 116
+#### Art. 116 [^25]
 
 Il Friuli Venezia Giulia [cfr. [X]], la Sardegna, la Sicilia, il Trentino-Alto Adige/Südtirol e la Valle d'Aosta/Vallée d'Aoste dispongono di forme e condizioni particolari di autonomia, secondo i rispettivi statuti speciali adottati con legge costituzionale.
 
 La Regione Trentino-Alto Adige/Südtirol è costituita dalle Province autonome di Trento e di Bolzano.
 
 Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo [117] e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei princìpi di cui all'articolo [119]. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.
+
+[^25]:*(all’art. [116])*\
+Articolo risultante dalla sostituzione del precedente testo operata dall'art. 2 della [legge cost.
+18 ottobre 2001, n. 3].
+Il testo originario era il seguente:\
+ART. 116\
+*«Alla Sicilia, alla Sardegna, al Trentino-Alto Adige, al Friuli-Venezia Giulia e alla Valle d’Aosta
+sono attribuite forme e condizioni particolari di autonomia secondostatuti speciali adottati con leggi costituzionali»*.
 
 #### Art. 117
 
@@ -1744,7 +1752,7 @@ Articoli: [ [114],[115],[116], ]
 [113]: #art-113
 [114]: #art-114-23
 [115]: #art-115-24
-[116]: #art-116
+[116]: #art-116-25
 [117]: #art-117
 [118]: #art-118
 [119]: #art-119
