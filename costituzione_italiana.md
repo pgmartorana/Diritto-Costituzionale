@@ -1069,9 +1069,14 @@ Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mez
 
 La legge determina quali organi di giurisdizione possono annullare gli atti della pubblica amministrazione nei casi e con gli effetti previsti dalla legge stessa.
 
-### Titolo V - Le Regioni, le Province, i Comuni
+### Titolo V - Le Regioni, le Province, i Comuni [^22]
 
-#### Art. 114
+[^22]:*(al Titolo V della Seconda Parte)*\
+La [legge cost. 18 ottobre 2001, n. 3], recante «Modifiche al titolo V della parte seconda della
+Costituzione», ha apportato modifiche agli artt. [114], [115], [116], [117], [118], [119], [120], [123], [124], [125],
+[127], [128], [129], [130], [132].
+
+#### Art. 114 [^23]
 
 La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni [cfr. art. [131]] e dallo Stato.
 
@@ -1079,9 +1084,22 @@ I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi c
 
 Roma è la capitale della Repubblica. La legge dello Stato disciplina il suo ordinamento.
 
-#### Art. 115
+[^23]:*(all’art. [114])*\
+Articolo risultante dalla sostituzione del precedente testo operata dall'art. 1 della [legge cost.
+18 ottobre 2001, n. 3].
+Il testo originario era il seguente:\
+ART. 114\
+*«La Repubblica si riparte in Regioni, Provincie e Comuni».*
+
+#### Art. 115 [^24]
 
 \[Abrogato]
+
+[^24]:*(all’art. [115])*\
+Abrogato dall'art. 9, comma 2, della [legge cost. 18 ottobre 2001, n. 3]. Il testo originario
+era il seguente:\
+ART. 115\
+*«Le Regioni sono costituite in enti autonomi con propri poteri e funzioni secondo i principî fissati nella Costituzione»*.
 
 #### Art. 116
 
@@ -1488,6 +1506,9 @@ della Valle e Sgonico*
 #### Legge costituzionale 9 febbraio 1963, n. 2
 *Modificazione agli artt. [56], [57] e [60] della Costituzione*
 
+[Gazzetta Ufficiale 12 febbraio 1963, n. 40](https://www.gazzettaufficiale.it/eli/id/1963/02/12/063C0002/sg)
+(in vigore dal 27 febbraio 1963)
+
 [legge cost. 9 febbraio 1963, n. 2]:#legge-costituzionale-9-febbraio-1963-n-2
 
 #### Legge costituzionale 27 dicembre 1963, n. 3
@@ -1547,8 +1568,15 @@ della Valle e Sgonico*
 
 *Modifiche agli articoli [56] e [57] della Costituzione concernenti il numero dei deputati e senatori in rappresentanza degli italiani all'estero.*
 
-
 [legge cost. 23 gennaio 2001, n. 1]:#legge-costituzionale-23-gennaio-2001-n-1
+
+#### Legge costituzionale 18 ottobre 2001, n. 3
+
+*Modifiche al titolo V della parte seconda della Costituzione.*
+[(GU n.248 del 24-10-2001)](https://www.gazzettaufficiale.it/eli/gu/2001/10/24/248/sg/pdf)
+Articoli: [ [114],[115],[116], ]
+
+[legge cost. 18 ottobre 2001, n. 3]:#legge-costituzionale-18-ottobre-2001-n-3
 
 ### 2007
 
@@ -1714,8 +1742,8 @@ della Valle e Sgonico*
 [111]: #art-111-21
 [112]: #art-112
 [113]: #art-113
-[114]: #art-114
-[115]: #art-115
+[114]: #art-114-23
+[115]: #art-115-24
 [116]: #art-116
 [117]: #art-117
 [118]: #art-118
