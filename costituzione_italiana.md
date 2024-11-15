@@ -1190,7 +1190,7 @@ della [legge cost. 20 aprile 2012 n.1].
 Le parole «armonizzazione dei bilanci pubblici;» che qui seguivano sono state soppresse con
 l’art. 3 della [legge cost. 20 aprile 2012 n.1].
 
-#### Art. 118
+#### Art. 118 [^29]
 
 Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, sulla base dei princìpi di sussidiarietà, differenziazione ed adeguatezza.
 
@@ -1199,6 +1199,15 @@ I Comuni, le Province e le Città metropolitane sono titolari di funzioni ammini
 La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle materie di cui alle lettere b) e h) del secondo comma dell'articolo 117, e disciplina inoltre forme di intesa e coordinamento nella materia della tutela dei beni culturali.
 
 Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà.
+
+[^29]:*(all’art. [118])*\
+Articolo risultante dalla sostituzione del precedente testo operata dall'art. 4 della [legge cost. 18 ottobre 2001, n. 3].
+Il testo originario era il seguente:\
+ART. 118\
+*«Spettano alla Regione le funzioni amministrative per le materie elencate nel precedente articolo, salvo
+quelle di interesse esclusivamente locale, che possono essere attribuite dalle leggi della Repubblica alle Provincie, ai Comuni o ad altri enti locali.
+Lo Stato può con legge delegare alla Regione l’esercizio di altre funzioni amministrative.
+La Regione esercita normalmente le sue funzioni amministrative delegandole alle Provincie, ai Comuni o ad altri enti locali, o valendosi dei loro uffici»*.
 
 #### Art. 119
 
@@ -1293,7 +1302,7 @@ La Regione, quando ritenga che una legge o un atto avente valore di legge dello 
 Sono costituite le seguenti Regioni:
 
 Piemonte;
-Valle d'Aosta [cfr. artt. [57] c.3, [83] c.2, [116]];
+Valle d'Aosta [cfr. artt. [57] c.3, [83] c.2, [116]]; 
 Lombardia;
 Trentino-Alto Adige [cfr. art. [116]];
 Veneto;
@@ -1618,7 +1627,7 @@ della Valle e Sgonico*
 
 *Modifiche al titolo V della parte seconda della Costituzione.*
 [(GU n.248 del 24-10-2001)](https://www.gazzettaufficiale.it/eli/gu/2001/10/24/248/sg/pdf)
-Articoli: [ [114],[115],[116],[117]]
+Articoli: [ [114],[115],[116],[117],[118]]
 
 [legge cost. 18 ottobre 2001, n. 3]:#legge-costituzionale-18-ottobre-2001-n-3
 
@@ -1790,7 +1799,7 @@ Articoli: [ [114],[115],[116],[117]]
 [115]: #art-115-24
 [116]: #art-116-25
 [117]: #art-117-26
-[118]: #art-118
+[118]: #art-118-29
 [119]: #art-119
 [120]: #art-120
 [121]: #art-121
