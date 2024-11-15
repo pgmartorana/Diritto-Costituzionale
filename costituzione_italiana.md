@@ -586,7 +586,7 @@ La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni 
 
 La durata di ciascuna Camera non può essere prorogata se non per legge e soltanto in caso di guerra.
 
-[^13]:*(all’art. [60], primo comma)*
+[^13]:*(all’art. [60], primo comma)*\
 Comma così sostituito dall'art. 3 della [legge cost. 9 febbraio 1963, n. 2]. Il testo originario
 del comma disponeva:\
 *«La Camera dei deputati è eletta per cinque anni, il Senato della Repubblica per sei»*.
@@ -1462,7 +1462,7 @@ costituzionale*
 
 #### Legge costituzionale 18 marzo 1958, n. 1
 
-*Scadenza del termine di cui alla XI delle «Disposizioni transitorie e finali» della Costituzione*
+*Scadenza del termine di cui alla [XI] delle «Disposizioni transitorie e finali» della Costituzione*
 
 ### 1961
 
@@ -1477,12 +1477,12 @@ della Valle e Sgonico*
 *Statuto speciale della Regione Friuli-Venezia Giulia*
 
 #### Legge costituzionale 9 febbraio 1963, n. 2
-*Modificazione agli artt. 56, 57 e 60 della Costituzione*
+*Modificazione agli artt. [56], [57] e [60] della Costituzione*
 
 [legge cost. 9 febbraio 1963, n. 2]:#legge-costituzionale-9-febbraio-1963-n-2
 
 #### Legge costituzionale 27 dicembre 1963, n. 3
-*Modificazione agli artt. 131 e 57 della Costituzione e istituzione della Regione «Molise»*
+*Modificazione agli artt. [131] e [57] della Costituzione e istituzione della Regione «Molise»*
 
 ### 1967
 
@@ -1495,11 +1495,15 @@ della Valle e Sgonico*
 
 #### Legge costituzionale 16 gennaio 1989, n. 1
 
+*Modifiche degli articoli [96], [134] e [135] della Costituzione e della legge costituzionale 11 marzo 1953, n. 1, e norme in materia di procedimenti per i reati di cui all'articolo 96 della Costituzione.*
+
 [legge cost. 16 gennaio 1989, n.1]:#legge-costituzionale-16-gennaio-1989-n-1
 
 ### 1991
 
 #### Legge costituzionale 4 novembre 1991, n. 1
+
+*Modifica dell'articolo [88], secondo comma, della Costituzione.*
 
 [legge cost. 4 novembre 1991, n. 1]:#legge-costituzionale-4-novembre-1991-n-1
 
@@ -1507,11 +1511,16 @@ della Valle e Sgonico*
 
 #### Legge costituzionale 6 marzo 1992, n. 1
 
+*Revisione dell'articolo [79] della Costituzione in materia di concessione di amnistia e indulto.*
+
+
 [legge cost. 6 marzo 1992, n. 1]:#legge-costituzionale-6-marzo-1992-n-1
 
 ### 1993
 
 #### Legge costituzionale 29 ottobre 1993, n. 3
+
+*Modifica dell'articolo [68] della Costituzione.*
 
 [legge cost. 29 ottobre 1993, n. 3]:#legge-costituzionale-29-ottobre-1993-n-3
 
@@ -1519,13 +1528,16 @@ della Valle e Sgonico*
 
 #### Legge costituzionale 23 gennaio 2001, n. 1
 
+*Modifiche agli articoli [56] e [57] della Costituzione concernenti il numero dei deputati e senatori in rappresentanza degli italiani all'estero.*
+
+
 [legge cost. 23 gennaio 2001, n. 1]:#legge-costituzionale-23-gennaio-2001-n-1
 
 ### 2007
 
 #### Legge costituzionale 2 ottobre 2007, n. 1
 
-*Modifica all'articolo 27 della Costituzione, concernente l'abolizione della pena di morte.*
+*Modifica all'articolo [27] della Costituzione, concernente l'abolizione della pena di morte.*
 
 [legge cost. 2 ottobre 2007, n. 1]:#legge-costituzionale-2-ottobre-2007-n-1
 
@@ -1533,11 +1545,15 @@ della Valle e Sgonico*
 
 #### Legge costituzionale 20 aprile 2012, n. 1
 
+*Introduzione del principio del pareggio di bilancio nella Carta costituzionale.*
+
 [legge cost. 20 aprile 2012 n.1]:#legge-costituzionale-20-aprile-2012-n-1
 
 ### 2020
 
 #### Legge costituzionale 19 ottobre 2020, n. 1
+
+*Modifiche agli articoli [56], [57] e [59] della Costituzione in materia di riduzione del numero dei parlamentari.*
 
 [legge cost. 19 ottobre 2020, n. 1]:#legge-costituzionale-19-ottobre-2020-n-1
 
@@ -1545,13 +1561,15 @@ della Valle e Sgonico*
 
 #### Legge costituzionale 18 ottobre 2021, n. 1
 
+*Modifica all'articolo [58] della Costituzione, in materia di elettorato per l'elezione del Senato della Repubblica.*
+
 [legge cost. 18 ottobre 2021, n. 1]:#legge-costituzionale-18-ottobre-2021-n-1
 
 ### 2022
 
 #### Legge costituzionale 11 febbraio 2022, n. 1
 
-*Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente.*
+*Modifiche agli articoli [9] e [41] della Costituzione in materia di tutela dell'ambiente.*
 
 [legge cost. 11 febbraio 2022, n.  1]:#legge-costituzionale-11-febbraio-2022-n-1
 
@@ -1559,7 +1577,7 @@ della Valle e Sgonico*
 
 #### Legge Costituzionale 26 settembre 2023, n. 1
 
-*Modifica all'articolo 33 della Costituzione, in materia di attivita' sportiva.*
+*Modifica all'articolo [33] della Costituzione, in materia di attivita' sportiva.*
 
 [legge cost. 26 settembre 2023, n. 1]:#legge-costituzionale-26-settembre-2023-n-1
 
