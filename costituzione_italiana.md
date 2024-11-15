@@ -635,13 +635,26 @@ Ciascuna Camera giudica dei titoli di ammissione dei suoi componenti e delle cau
 
 Ogni membro del Parlamento rappresenta la Nazione ed esercita le sue funzioni senza vincolo di mandato.
 
-##### Art. 68
+##### Art. 68 [^14]
 
 I membri del Parlamento non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell'esercizio delle loro funzioni.
 
 Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può essere sottoposto a perquisizione personale o domiciliare, né può essere arrestato o altrimenti privato della libertà personale, o mantenuto in detenzione, salvo che in esecuzione di una sentenza irrevocabile di condanna, ovvero se sia colto nell'atto di commettere un delitto per il quale è previsto l'arresto obbligatorio in flagranza.
 
 Analoga autorizzazione è richiesta per sottoporre i membri del Parlamento ad intercettazioni, in qualsiasi forma, di conversazioni o comunicazioni e a sequestro di corrispondenza.
+
+[^14]:*(all’art. 68)*\
+Articolo così sostituito dalla [legge cost. 29 ottobre 1993, n. 3]. Il testo originario
+era il seguente:\
+ART. 68
+*«I membri del Parlamento non possono essere perseguiti per le opinioni espresse e i voti dati nell’esercizio delle
+loro funzioni.
+Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può esseresottoposto a procedimento penale;
+né può essere arrestato, o altrimenti privato della libertà personale,
+o sottoposto a perquisizione personale o domiciliare, salvo che sia colto
+nell’atto di commettere un delitto per il quale è obbligatorio il mandato o l’ordine di cattura.
+Eguale autorizzazione è richiesta per trarre in arresto o mantenere
+in detenzione un membro del Parlamento in esecuzione di una sentenza anche irrevocabile»*.
 
 ##### Art. 69
 
@@ -1438,6 +1451,12 @@ della Valle e Sgonico*
 
 [legge cost. 21 giugno 1967, n. 1]:#legge-costituzionale-21-giugno-1967-n-1
 
+### 1993
+
+#### Legge costituzionale 29 ottobre 1993, n. 3
+
+[legge cost. 29 ottobre 1993, n. 3]:#legge-costituzionale-29-ottobre-1993-n-3
+
 ### 2001
 
 #### Legge costituzionale 23 gennaio 2001, n. 1
@@ -1550,7 +1569,7 @@ della Valle e Sgonico*
 [65]: #art-65
 [66]: #art-66
 [67]: #art-67
-[68]: #art-68
+[68]: #art-68-14
 [69]: #art-69
 [70]: #art-70
 [71]: #art-71
