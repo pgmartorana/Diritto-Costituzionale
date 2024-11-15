@@ -643,10 +643,10 @@ Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parla
 
 Analoga autorizzazione è richiesta per sottoporre i membri del Parlamento ad intercettazioni, in qualsiasi forma, di conversazioni o comunicazioni e a sequestro di corrispondenza.
 
-[^14]:*(all’art. 68)*\
+[^14]:*(all’art. [68])*\
 Articolo così sostituito dalla [legge cost. 29 ottobre 1993, n. 3]. Il testo originario
 era il seguente:\
-ART. 68
+ART. 68\
 *«I membri del Parlamento non possono essere perseguiti per le opinioni espresse e i voti dati nell’esercizio delle
 loro funzioni.
 Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può esseresottoposto a procedimento penale;
@@ -724,7 +724,7 @@ I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge ent
 
 Le Camere deliberano lo stato di guerra [cfr. art. [87] c. 9] e conferiscono al Governo i poteri necessari.
 
-##### Art. 79
+##### Art. 79 [^15]
 
 L'amnistia e l'indulto sono concessi con legge deliberata a maggioranza dei due terzi dei componenti di ciascuna Camera, in ogni suo articolo e nella votazione finale [cfr. art. [75] c. 2].
 
@@ -732,11 +732,19 @@ La legge che concede l'amnistia o l'indulto stabilisce il termine per la loro ap
 
 In ogni caso l'amnistia e l'indulto non possono applicarsi ai reati commessi successivamente alla presentazione del disegno di legge.
 
+[^15]:*(all’art. [79])*\
+Articolo così sostituito dalla [legge cost. 6 marzo 1992, n. 1]. Il testo originario
+era il seguente:\
+ART. 79\
+*«L’amnistia e l’indulto sono concessi dal Presidente della Repubblica su legge di delegazione
+delle Camere.
+Non possono applicarsi ai reati commessi successivamente alla proposta di delegazione»*.
+
 ##### Art. 80
 
 Le Camere autorizzano con legge la ratifica dei trattati internazionali [cfr. art. 87 c. 8] che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi [cfr. artt. [72] c. 4, [75] c. 2, [V]].
 
-##### Art. 81
+##### Art. 81 [^16]
 
 Lo Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio, tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.
 
@@ -749,6 +757,22 @@ Le Camere ogni anno approvano con legge il bilancio e il rendiconto consuntivo p
 L'esercizio provvisorio del bilancio non può essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi.
 
 Il contenuto della legge di bilancio, le norme fondamentali e i criteri volti ad assicurare l'equilibrio tra le entrate e le spese dei bilanci e la sostenibilità del debito del complesso delle pubbliche amministrazioni sono stabiliti con legge approvata a maggioranza assoluta dei componenti di ciascuna Camera, nel rispetto dei princìpi definiti con legge costituzionale.
+
+[^16]:*(all’art. [81])*
+Articolo così sostituito dall'art. 1 della [legge cost. 20 aprile 2012 n.1], recante «Introduzione del principio del pareggio di bilancio
+nella Carta costituzionale», che ha introdotto modifiche
+agli artt. [96], [117] e [119] - stabilendo con l’art. 6 l’applicazione
+delle disposizioni della legge «a decorrere dall’esercizio finanziario relativo
+all’anno 2014».
+Si vedano, inoltre, le disposizioni disciplinari all’art. 5 della stessa legge.
+Il testo originario era il seguente:\
+ART. 81\
+*«Le Camere approvano ogni anno i bilanci e il rendiconto consuntivo presentati dal Governo.
+L’esercizio provvisorio del bilancio non puòessere concesso se non per legge e per periodi non superiori
+complessivamente a quattro mesi.
+Con la legge di approvazione del bilancio non si possonostabilire nuovi tributi e nuove spese.
+Ogni altra legge che importi nuove o maggiori spese deve indicare i mezzi per farvi fronte»*.
+
 
 ##### Art. 82
 
@@ -818,7 +842,12 @@ Conferisce le onorificenze della Repubblica.
 
 Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse.
 
-Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura.
+Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura.[^17]
+
+[^17]:*(all’art. [88], secondo comma)*
+Comma così sostituito dalla [legge cost. 4 novembre 1991, n. 1]. Nella formulazione
+originaria il comma disponeva:\
+*«Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato»*.
 
 #### Art. 89
 
@@ -830,7 +859,10 @@ Gli atti che hanno valore legislativo [cfr. artt. [76], [77]] e gli altri indica
 
 Il Presidente della Repubblica non è responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione.
 
-In tali casi è messo in stato di accusa dal Parlamento in seduta comune [cfr. art. 55 c.2], a maggioranza assoluta dei suoi membri [cfr. artt. [134], [135] c.7 ].
+In tali casi è messo in stato di accusa dal Parlamento in seduta comune [cfr. art. 55 c.2], a maggioranza assoluta dei suoi membri [cfr. artt. [134], [135] c.7 ].[^18]
+
+[^18]:*(all’art. [90])*\
+La normativa relativa all’Art. 90 è definita dalla [legge cost. 11 marzo 1953, n. 1].
 
 #### Art. 91
 
@@ -870,9 +902,15 @@ I Ministri sono responsabili collegialmente degli atti del Consiglio dei Ministr
 
 La legge provvede all'ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l'organizzazione dei Ministeri [cfr. art. [97] c.1].
 
-##### Art. 96
+##### Art. 96 [^19]
 
 Il Presidente del Consiglio dei Ministri ed i Ministri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell'esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione del Senato della Repubblica o della Camera dei deputati, secondo le norme stabilite con legge costituzionale.
+
+[^19]:*(all’art. [96])*\
+Articolo così sostituito dall'art. 1 della [legge cost. 16 gennaio 1989, n.1]. Il testo originario era il
+seguente:\
+ART. 96\
+*«Il Presidente del Consiglio dei ministri e i ministri sono posti in stato d’accusa dal Parlamento in seduta comune per reati commessi nell’esercizio delle loro funzioni»*.
 
 #### Sezione II - La Pubblica Amministrazione
 
@@ -1418,6 +1456,8 @@ costituzionale*
 
 *Norme integrative della Costituzione concernenti la Corte costituzionale*
 
+[legge cost. 11 marzo 1953, n. 1]:#legge-costituzionale-11-marzo-1953-n-1
+
 ### 1958
 
 #### Legge costituzionale 18 marzo 1958, n. 1
@@ -1451,6 +1491,24 @@ della Valle e Sgonico*
 
 [legge cost. 21 giugno 1967, n. 1]:#legge-costituzionale-21-giugno-1967-n-1
 
+### 1989
+
+#### Legge costituzionale 16 gennaio 1989, n. 1
+
+[legge cost. 16 gennaio 1989, n.1]:#legge-costituzionale-16-gennaio-1989-n-1
+
+### 1991
+
+#### Legge costituzionale 4 novembre 1991, n. 1
+
+[legge cost. 4 novembre 1991, n. 1]:#legge-costituzionale-4-novembre-1991-n-1
+
+### 1992
+
+#### Legge costituzionale 6 marzo 1992, n. 1
+
+[legge cost. 6 marzo 1992, n. 1]:#legge-costituzionale-6-marzo-1992-n-1
+
 ### 1993
 
 #### Legge costituzionale 29 ottobre 1993, n. 3
@@ -1470,6 +1528,12 @@ della Valle e Sgonico*
 *Modifica all'articolo 27 della Costituzione, concernente l'abolizione della pena di morte.*
 
 [legge cost. 2 ottobre 2007, n. 1]:#legge-costituzionale-2-ottobre-2007-n-1
+
+### 2012
+
+#### Legge costituzionale 20 aprile 2012, n. 1
+
+[legge cost. 20 aprile 2012 n.1]:#legge-costituzionale-20-aprile-2012-n-1
 
 ### 2020
 
@@ -1580,9 +1644,9 @@ della Valle e Sgonico*
 [76]: #art-76
 [77]: #art-77
 [78]: #art-78
-[79]: #art-79
+[79]: #art-79-15
 [80]: #art-80
-[81]: #art-81
+[81]: #art-81-16
 [82]: #art-82
 [83]: #art-83
 [84]: #art-84
@@ -1597,7 +1661,7 @@ della Valle e Sgonico*
 [93]: #art-93
 [94]: #art-94
 [95]: #art-95
-[96]: #art-96
+[96]: #art-96-19
 [97]: #art-97
 [98]: #art-98
 [99]: #art-99
