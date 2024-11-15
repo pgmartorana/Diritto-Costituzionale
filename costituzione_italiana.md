@@ -1093,7 +1093,7 @@ ART. 114\
 
 #### Art. 115 [^24]
 
-\[Abrogato]
+*Abrogato*
 
 [^24]:*(all’art. [115])*\
 Abrogato dall'art. 9, comma 2, della [legge cost. 18 ottobre 2001, n. 3]. Il testo originario
@@ -1117,16 +1117,17 @@ ART. 116\
 *«Alla Sicilia, alla Sardegna, al Trentino-Alto Adige, al Friuli-Venezia Giulia e alla Valle d’Aosta
 sono attribuite forme e condizioni particolari di autonomia secondostatuti speciali adottati con leggi costituzionali»*.
 
-#### Art. 117
+#### Art. 117 [^26]
 
 La potestà legislativa è esercitata dallo Stato [[70] e segg.] e dalle Regioni nel rispetto della Costituzione, nonchè dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali.
 
 Lo Stato ha legislazione esclusiva nelle seguenti materie:
+
 a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini di Stati non appartenenti all'Unione europea;
 b) immigrazione;
 c) rapporti tra la Repubblica e le confessioni religiose;
 d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi;
-e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; armonizzazione dei bilanci pubblici; perequazione delle risorse finanziarie;
+e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; armonizzazione dei bilanci pubblici;[^27] perequazione delle risorse finanziarie;
 f) organi dello Stato e relative leggi elettorali; referendum statali; elezione del Parlamento europeo;
 g) ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali;
 h) ordine pubblico e sicurezza, ad esclusione della polizia amministrativa locale;
@@ -1140,7 +1141,7 @@ q) dogane, protezione dei confini nazionali e profilassi internazionale;
 r) pesi, misure e determinazione del tempo; coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale; opere dell'ingegno;
 s) tutela dell'ambiente, dell'ecosistema e dei beni culturali.
 
-Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l'Unione europea delle Regioni; commercio con l'estero; tutela e sicurezza del lavoro; istruzione, salva l'autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa; coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei princìpi fondamentali, riservata alla legislazione dello Stato.
+Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l'Unione europea delle Regioni; commercio con l'estero; tutela e sicurezza del lavoro; istruzione, salva l'autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa;[^28] coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei princìpi fondamentali, riservata alla legislazione dello Stato.
 
 Spetta alle Regioni la potestà legislativa in riferimento ad ogni materia non espressamente riservata alla legislazione dello Stato.
 
@@ -1148,11 +1149,46 @@ Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro 
 
 La potestà regolamentare spetta allo Stato nelle materie di legislazione esclusiva, salva delega alle Regioni. La potestà regolamentare spetta alle Regioni in ogni altra materia. I Comuni, le Province e le Città metropolitane hanno potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni loro attribuite.
 
-Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parità degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parità di accesso tra donne e uomini alle cariche elettive [3].
+Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parità degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parità di accesso tra donne e uomini alle cariche elettive [cfr. art. [3]].
 
 La legge regionale ratifica le intese della Regione con altre Regioni per il migliore esercizio delle proprie funzioni, anche con individuazione di organi comuni.
 
 Nelle materie di sua competenza la Regione può concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato.
+
+[^26]:*(all’art. [117])*\
+Articolo risultante dalla sostituzione del precedente testo operata dall'art. 3 della [legge cost. 18 ottobre 2001, n. 3], e dalle modifiche successivamente operate dalla [legge cost. 20 aprile 2012 n.1] (vedi note 22 e 23).
+Il testo originario era il seguente:\
+ART. 117\
+*«La Regione emana per le seguenti materie norme legislative nei limiti dei principî fondamentali stabiliti dalle leggi dello Stato, sempreché le norme stesse non siano in contrasto con l’interesse nazionale e con
+quello di altre Regioni:
+Ordinamento degli uffici e degli enti amministrativi dipendenti dalla Regione;
+Circoscrizioni comunali;
+Polizia locale urbana e rurale;
+Fiere e mercati;
+Beneficenza pubblica ed assistenza sanitaria ed ospedaliera;
+Istruzione artigiana e professionale e assistenza scolastica;
+Musei e biblioteche di enti locali;
+Urbanistica;
+Turismo ed industria alberghiera;
+Tramvie e linee automobilistiche d’interesse regionale;
+Viabilità, acquedotti e lavori pubblici di interesse regionale;
+Navigazione e porti lacuali;
+Acque minerali e termali;
+Cave e torbiere;
+Caccia;
+Pesca nelle acque interne;
+Agricoltura e foreste;
+Artigianato.
+Altre materie indicate da leggi costituzionali.
+Le leggi della Repubblica possono demandare alla Regione il potere di emanare norme per la loro attuazione»*.
+
+[^27]:*(all’art. [117], secondo comma, lett. e)*\
+Le parole «armonizzazione dei bilanci pubblici;»sono state introdotte dall'art. 3
+della [legge cost. 20 aprile 2012 n.1].
+
+[^28]:*(all’art. [117], terzo comma)*\
+Le parole «armonizzazione dei bilanci pubblici;» che qui seguivano sono state soppresse con
+l’art. 3 della [legge cost. 20 aprile 2012 n.1].
 
 #### Art. 118
 
@@ -1582,7 +1618,7 @@ della Valle e Sgonico*
 
 *Modifiche al titolo V della parte seconda della Costituzione.*
 [(GU n.248 del 24-10-2001)](https://www.gazzettaufficiale.it/eli/gu/2001/10/24/248/sg/pdf)
-Articoli: [ [114],[115],[116], ]
+Articoli: [ [114],[115],[116],[117]]
 
 [legge cost. 18 ottobre 2001, n. 3]:#legge-costituzionale-18-ottobre-2001-n-3
 
@@ -1753,7 +1789,7 @@ Articoli: [ [114],[115],[116], ]
 [114]: #art-114-23
 [115]: #art-115-24
 [116]: #art-116-25
-[117]: #art-117
+[117]: #art-117-26
 [118]: #art-118
 [119]: #art-119
 [120]: #art-120
