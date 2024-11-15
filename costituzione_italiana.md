@@ -916,13 +916,16 @@ ART. 96\
 
 ##### Art. 97
 
-Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilità del debito pubblico.
+Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilità del debito pubblico. [^20]
 
 I pubblici uffici sono organizzati secondo disposizioni di legge [[95] c.3], in modo che siano assicurati il buon andamento e l'imparzialità dell'amministrazione.
 
 Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari [28].
 
 Agli impieghi nelle pubbliche amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge [[51] c.1].
+
+[^20]:*(all’art. [97], primo comma)*\
+Comma aggiunto dall'art. 2 della [legge cost. 20 aprile 2012 n.1]
 
 ##### Art. 98
 
@@ -1030,7 +1033,7 @@ Ferme le competenze del Consiglio superiore della magistratura, spettano al Mini
 
 #### Sezione II - Norme sulla giurisdizione
 
-##### Art. 111
+##### Art. 111 [^21]
 
 La giurisdizione si attua mediante il giusto processo regolato dalla legge.
 
@@ -1047,6 +1050,12 @@ Tutti i provvedimenti giurisdizionali devono essere motivati [cfr. artt. [13] c.
 Contro le sentenze e contro i provvedimenti sulla libertà personale [cfr. art. [13]], pronunciati dagli organi giurisdizionali ordinari o speciali, è sempre ammesso ricorso in Cassazione per violazione di legge [cfr. art. [137] c.3]. Si può derogare a tale norma soltanto per le sentenze dei tribunali militari in tempo di guerra [cfr. art. [103] c.3 , [VI] c.2].
 
 Contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione è ammesso per i soli motivi inerenti alla giurisdizione [cfr. art. [103] c.1,2].
+
+[^21]:*(all’art. [111])*\
+I primi cinque commi sono stati aggiunti dall'art. 1 della [legge cost. 22 novembre 1999, n. 2].
+All’art. 2, la stessa legge cost. così dispone: *«1. La legge regola l’applicazione dei principî
+contenuti nella presente legge costituzionale ai procedimenti penali in corso alla data della
+sua entrata in vigore»*.
 
 ##### Art. 112
 
@@ -1524,6 +1533,14 @@ della Valle e Sgonico*
 
 [legge cost. 29 ottobre 1993, n. 3]:#legge-costituzionale-29-ottobre-1993-n-3
 
+### 1999
+
+#### Legge costituzionale 22 novembre 1999, n. 2
+
+*Inserimento dei principi del giusto processo nell'articolo [111] della Costituzione.*
+
+[legge cost. 22 novembre 1999, n. 2]:#legge-costituzionale-22-novembre-1999-n-2
+
 ### 2001
 
 #### Legge costituzionale 23 gennaio 2001, n. 1
@@ -1694,7 +1711,7 @@ della Valle e Sgonico*
 [108]: #art-108
 [109]: #art-109
 [110]: #art-110
-[111]: #art-111
+[111]: #art-111-21
 [112]: #art-112
 [113]: #art-113
 [114]: #art-114
