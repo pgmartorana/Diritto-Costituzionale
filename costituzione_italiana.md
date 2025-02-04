@@ -1301,7 +1301,7 @@ La Regione, quando ritenga che una legge o un atto avente valore di legge dello 
 
 Sono costituite le seguenti Regioni:
 
-Piemonte;
+&nbsp;&nbsp;&nbsp;&nbsp;Piemonte;
 Valle d'Aosta [cfr. artt. [57] c.3, [83] c.2, [116]]; 
 Lombardia;
 Trentino-Alto Adige [cfr. art. [116]];
